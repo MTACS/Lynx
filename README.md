@@ -2,6 +2,8 @@
 
 Lynx combines many of my smaller tweaks into one large one capable of customizing iOS 13 in many ways. This was made with a dynamic design, and updates will be provided that include all reasonable feature requests.
 
+Available on [Twickd Repo](https://repo.twickd.com/) soon
+
 ## Current Features
 
 SpringBoard
