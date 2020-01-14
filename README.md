@@ -85,6 +85,10 @@ Instagram
 
 * Reenable number of likes
 
+# Requesting features
+
+Contact me via [Twitter](https://twitter.com/mtac8) or [Reddit](https://reddit.com/u/-MTAC-) or create a GitHub issue. As new features are requested, the tweak and current list shown above will be updated.
+
 # Price
 
 $1.50 via [Twickd Repository](https://repo.twickd.com/)
