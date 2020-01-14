@@ -1,5 +1,7 @@
 # Lynx - The Dynamic Customization Tweak
 
+![Lynx](http://mtac.app/assets/images/lynxbanner.png)
+
 Lynx combines many of my smaller tweaks into one large one capable of customizing iOS 13 in many ways. This was made with a dynamic design, and updates will be provided that include all reasonable feature requests.
 
 Available on [Twickd](https://repo.twickd.com/) soon
