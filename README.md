@@ -4,6 +4,8 @@ Lynx combines many of my smaller tweaks into one large one capable of customizin
 
 Available on [Twickd](https://repo.twickd.com/) soon
 
+Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphics and testing
+
 ## Current Features
 
 SpringBoard
