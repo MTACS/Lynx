@@ -80,3 +80,7 @@ SoundCloud
 Instagram
 
 * Reenable number of likes
+
+# Price
+
+$1.50 via [Twickd Repository](https://repo.twickd.com/)
