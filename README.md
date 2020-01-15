@@ -33,6 +33,7 @@ SpringBoard
 * Hide tab bar labels / set custom height
 * Hide recently updated app dots
 * Hide Status Bar Colored view (Location, Hotspot, Screen Recording)
+* Hide Home Bar
 
 Lockscreen
 
@@ -50,6 +51,8 @@ Lockscreen
 * Hide Quick Toggles (iPhone X)
 * Hide Swipe Up To Unlock/Press Home to Unlock text
 * Hide Search Bars on table views
+* Hide Home Bar
+* Hide Control Center grabber
 
 AppSwitcher
 
