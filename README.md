@@ -49,6 +49,7 @@ Lockscreen
 * Hide delete/backspace button
 * Hide Quick Toggles (iPhone X)
 * Hide Swipe Up To Unlock/Press Home to Unlock text
+* Hide Search Bars on table views
 
 AppSwitcher
 
