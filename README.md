@@ -70,6 +70,13 @@ Control Center
 * Hide Status bar
 * Hide message when toggling
 
+Status Bar
+
+* Hide Wifi signal
+* Hide Cell signal
+* Hide Battery view
+* Hide clock
+
 Messages
 
 * Hide “Share Photo” option
