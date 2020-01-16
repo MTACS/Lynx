@@ -77,6 +77,10 @@ Status Bar
 * Hide Battery view
 * Hide clock
 
+App Store
+
+* Replace Arcade tab with updates
+
 Messages
 
 * Hide “Share Photo” option
