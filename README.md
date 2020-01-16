@@ -65,6 +65,11 @@ AppSwitcher
 * Hide card icons
 * Hide card app labels
 
+Control Center
+
+* Hide Status bar
+* Hide message when toggling
+
 Messages
 
 * Hide “Share Photo” option
@@ -81,6 +86,7 @@ Phone
 * Hide number button background
 * Hide call button background
 * Use custom call button color
+* Hide Voicemail tab
 
 YouTube
 
