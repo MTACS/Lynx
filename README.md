@@ -32,6 +32,7 @@ SpringBoard
 * Hide control center statusbar
 * Hide tab bar labels / set custom height
 * Hide recently updated app dots
+* Hide page dots
 * Hide Status Bar Colored view (Location, Hotspot, Screen Recording)
 * Hide Home Bar
 * Hide Widgets View edit button
