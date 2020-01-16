@@ -36,6 +36,7 @@ SpringBoard
 * Hide Home Bar
 * Hide Widgets View edit button
 * Hide 'The Weather Channel' text
+* Hide folder icon view background
 
 Lockscreen
 
