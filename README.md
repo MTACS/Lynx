@@ -94,6 +94,10 @@ Settings
 * Hide cell icons
 * Show IP address in Wi-Fi section
 
+Camera
+
+* Use iPad style layout
+
 Phone
 
 * Hide number button background
