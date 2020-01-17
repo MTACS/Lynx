@@ -57,6 +57,7 @@ Lockscreen
 * Hide Search Bars on table views
 * Hide Home Bar
 * Hide Control Center grabber
+* Hide 'No Older Notifications' text
 
 AppSwitcher
 
