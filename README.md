@@ -35,8 +35,6 @@ SpringBoard
 * Hide page dots
 * Hide Status Bar Colored view (Location, Hotspot, Screen Recording)
 * Hide Home Bar
-* Hide Widgets View edit button
-* Hide 'The Weather Channel' text
 * Hide folder icon view background
 
 Lockscreen
@@ -78,6 +76,12 @@ Status Bar
 * Hide Battery view
 * Hide clock
 * Hide Lock Icon (iPhone 8 and below)
+
+Today View (Widgets)
+
+* Disable on lockscreen
+* Hide Widgets View edit button
+* Hide 'The Weather Channel' text
 
 App Store
 
