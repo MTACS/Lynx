@@ -76,6 +76,7 @@ Status Bar
 * Hide Cell signal
 * Hide Battery view
 * Hide clock
+* Hide Lock Icon (iPhone 8 and below)
 
 App Store
 
