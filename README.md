@@ -56,6 +56,7 @@ Lockscreen
 * Hide Home Bar
 * Hide Control Center grabber
 * Hide 'No Older Notifications' text
+* Disable camera
 
 AppSwitcher
 
