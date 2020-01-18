@@ -104,6 +104,7 @@ Settings
 Camera
 
 * Use iPad style layout
+* Hide last photo preview
 
 Phone
 
