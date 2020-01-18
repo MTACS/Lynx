@@ -4,7 +4,7 @@
 
 Lynx combines many of my smaller tweaks into one large one capable of customizing iOS 13 in many ways. This was made with a dynamic design, and updates will be provided that include all reasonable feature requests.
 
-Requires libcolorpicker (1.6.7) from [BigBoss](http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/) and Cephei (1.14) from [Chariz](https://repo.chariz.com)
+Requires libcolorpicker (1.6.7) from [BigBoss](http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/) and Cephei (1.14) from [Chariz](https://repo.chariz.io/package/ws.hbang.common/)
 
 Available on [Twickd](https://repo.twickd.com/)
 
