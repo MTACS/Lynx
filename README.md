@@ -38,6 +38,7 @@ SpringBoard
 * Hide Status Bar Colored view (Location, Hotspot, Screen Recording)
 * Hide Home Bar
 * Hide folder icon view background
+* Force 'Done' button when editing apps
 
 Lockscreen
 
