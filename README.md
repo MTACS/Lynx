@@ -39,6 +39,7 @@ SpringBoard
 * Hide Home Bar
 * Hide folder icon view background
 * Force 'Done' button when editing apps
+* Hide 'Add Widget' text on SpringBoard widgets
 
 Lockscreen
 
@@ -61,6 +62,7 @@ Lockscreen
 * Disable camera
 * Hide flashlight button (iPhone X)
 * Hide camera button (iPhone X)
+* Hide top FaceID text (iPhone X)
 
 AppSwitcher
 
