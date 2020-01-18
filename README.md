@@ -53,13 +53,14 @@ Lockscreen
 * Hide emergency button
 * Hide cancel button
 * Hide delete/backspace button
-* Hide Quick Toggles (iPhone X)
 * Hide Swipe Up To Unlock/Press Home to Unlock text
 * Hide Search Bars on table views
 * Hide Home Bar
 * Hide Control Center grabber
 * Hide 'No Older Notifications' text
 * Disable camera
+* Hide flashlight button (iPhone X)
+* Hide camera button (iPhone X)
 
 AppSwitcher
 
