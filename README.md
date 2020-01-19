@@ -119,6 +119,7 @@ Phone
 * Hide call button background
 * Use custom call button color
 * Hide Voicemail tab
+* Show exact call time
 
 YouTube
 
