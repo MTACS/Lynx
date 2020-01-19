@@ -31,6 +31,7 @@ SpringBoard
 * Hide 3D Touch shortcut icons
 * Show IP address on Settings’ Wi-Fi 3D Touch shortcut
 * Show battery percentage on Settings’ Battery 3D Touch shortcut
+* Hide 3D Touch separator lines
 * Hide control center statusbar
 * Hide tab bar labels / set custom height
 * Hide recently updated app dots
