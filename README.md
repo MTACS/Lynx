@@ -102,9 +102,10 @@ Messages
 * Hide “Share Photo” option
 * Hide iMessage app strip
 
-Phone
+Photos
 
 * Delete photos immediately
+* Use infinite zoom
 
 Settings
 
