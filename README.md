@@ -40,6 +40,8 @@ SpringBoard
 * Hide folder icon view background
 * Force 'Done' button when editing apps
 * Hide 'Add Widget' text on SpringBoard widgets
+* Hide Screen Time icon darkening view
+* Hide Screen Time hourglass icon
 
 Lockscreen
 
