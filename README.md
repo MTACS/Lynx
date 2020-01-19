@@ -66,6 +66,7 @@ Lockscreen
 * Hide flashlight button (iPhone X)
 * Hide camera button (iPhone X)
 * Hide top FaceID text (iPhone X)
+* Change FaceID animation duration
 
 AppSwitcher
 
