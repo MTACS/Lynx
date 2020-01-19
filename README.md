@@ -102,6 +102,10 @@ Messages
 * Hide “Share Photo” option
 * Hide iMessage app strip
 
+Phone
+
+* Delete photos immediately
+
 Settings
 
 * Hide 3rd party app section
