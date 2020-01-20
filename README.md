@@ -10,6 +10,10 @@ Available on [Twickd](https://repo.twickd.com/)
 
 Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphics and testing
 
+## Feature Requests and Bug Reports via GitHub
+
+Please combine all issues and requests into one, as it gets cluttered with a separate one for each
+
 ## Current Features
 
 SpringBoard
