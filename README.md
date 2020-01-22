@@ -48,6 +48,7 @@ SpringBoard
 * Hide Screen Time icon darkening view
 * Hide Screen Time hourglass icon
 * Automatically close folders when opening apps
+* Hide Large titles on navigation bars
 
 Lockscreen
 
