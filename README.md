@@ -41,7 +41,7 @@ SpringBoard
 * Hide recently updated app dots
 * Hide page dots
 * Hide Status Bar Colored view (Location, Hotspot, Screen Recording)
-* Hide Home Bar
+* Hide Home Bar / Hide everywher (Overrides lockscreen)
 * Hide folder icon view background
 * Force 'Done' button when editing apps
 * Hide 'Add Widget' text on SpringBoard widgets
