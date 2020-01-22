@@ -47,6 +47,7 @@ SpringBoard
 * Hide 'Add Widget' text on SpringBoard widgets
 * Hide Screen Time icon darkening view
 * Hide Screen Time hourglass icon
+* Automatically close folders when opening apps
 
 Lockscreen
 
