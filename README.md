@@ -49,6 +49,7 @@ SpringBoard
 * Hide Screen Time hourglass icon
 * Automatically close folders when opening apps
 * Hide Large titles on navigation bars
+* Disable app breadcrumbs
 
 Lockscreen
 
