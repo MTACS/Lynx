@@ -132,6 +132,7 @@ Phone
 * Use custom call button color
 * Hide Voicemail tab
 * Show exact call time
+* Use large call button (causes layout issues in call screens)
 
 YouTube
 
