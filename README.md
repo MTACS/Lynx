@@ -55,6 +55,8 @@ SpringBoard
 Lockscreen
 
 * Set clock font and size
+* Hide clock
+* Hide Date label
 * Hide battery popup when charging
 * Hide page dots (Pre iPhone X)
 * Hide notification app names
@@ -67,7 +69,6 @@ Lockscreen
 * Hide delete/backspace button
 * Hide Swipe Up To Unlock/Press Home to Unlock text
 * Hide Search Bars on table views
-* Hide Home Bar
 * Hide Control Center grabber
 * Hide 'No Older Notifications' text
 * Disable camera
