@@ -50,6 +50,7 @@ SpringBoard
 * Automatically close folders when opening apps
 * Hide Large titles on navigation bars
 * Disable app breadcrumbs
+* Colorize app badges to average color
 
 Lockscreen
 
