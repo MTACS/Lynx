@@ -51,6 +51,7 @@ SpringBoard
 * Hide Large titles on navigation bars
 * Disable app breadcrumbs
 * Colorize app badges to average color
+* Disable Low Power Mode autolock
 
 Lockscreen
 
@@ -149,6 +150,10 @@ SoundCloud
 Instagram
 
 * Reenable number of likes
+
+Safari
+
+* Use iPad Tab Layout
 
 Experimental features
 
