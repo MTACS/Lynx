@@ -85,6 +85,7 @@ AppSwitcher
 * Hide Handoff app suggestions
 * Hide card icons
 * Hide card app labels
+* Prevent killing from App Switcher if audio is playing
 
 Control Center
 
@@ -155,10 +156,6 @@ Instagram
 Safari
 
 * Use iPad Tab Layout
-
-Now Playing Apps
-
-* Prevent killing from App Switcher if audio is playing
 
 Experimental features
 
