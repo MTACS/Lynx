@@ -78,6 +78,7 @@ Lockscreen
 * Hide camera button (iPhone X)
 * Hide top FaceID text (iPhone X)
 * Change FaceID animation duration
+* Disable unlock fly-in animation
 
 AppSwitcher
 
