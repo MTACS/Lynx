@@ -53,6 +53,7 @@ SpringBoard
 * Colorize app badges to average color
 * Disable Low Power Mode autolock
 * Set custom number of Dock icons
+* Change FaceID animation duration
 
 Lockscreen
 
@@ -77,7 +78,6 @@ Lockscreen
 * Hide flashlight button (iPhone X)
 * Hide camera button (iPhone X)
 * Hide top FaceID text (iPhone X)
-* Change FaceID animation duration
 * Disable unlock fly-in animation
 
 AppSwitcher
@@ -145,6 +145,7 @@ YouTube
 
 * Allow playback in background
 * Block Ads
+* Disable stories
 
 SoundCloud
 
