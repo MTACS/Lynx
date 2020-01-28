@@ -52,6 +52,7 @@ SpringBoard
 * Disable app breadcrumbs
 * Colorize app badges to average color
 * Disable Low Power Mode autolock
+* Set custom number of Dock icons
 
 Lockscreen
 
@@ -154,6 +155,10 @@ Instagram
 Safari
 
 * Use iPad Tab Layout
+
+Now Playing Apps
+
+* Prevent killing from App Switcher if audio is playing
 
 Experimental features
 
