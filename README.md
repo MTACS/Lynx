@@ -117,7 +117,7 @@ Messages
 
 Photos
 
-* Delete photos immediately
+* Skip deletion confirmation
 * Use infinite zoom
 
 Settings
