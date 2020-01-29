@@ -48,7 +48,6 @@ SpringBoard
 * Hide Screen Time icon darkening view
 * Hide Screen Time hourglass icon
 * Automatically close folders when opening apps
-* Hide Large titles on navigation bars
 * Disable app breadcrumbs
 * Colorize app badges to average color
 * Disable Low Power Mode autolock
@@ -126,6 +125,7 @@ Settings
 * Hide 3rd party app section
 * Hide cell icons
 * Show IP address in Wi-Fi section
+* Show Ethernet section
 
 Camera
 
