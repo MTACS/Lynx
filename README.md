@@ -159,6 +159,10 @@ Safari
 
 * Use iPad Tab Layout
 
+CarPlay
+
+* Disable icon labels
+
 Experimental features
 
 * Use modern notifications, with custom icon radius and icon shadow
