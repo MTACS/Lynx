@@ -53,6 +53,7 @@ SpringBoard
 * Disable Low Power Mode autolock
 * Set custom number of Dock icons
 * Change FaceID animation duration
+* Use custom icon label colors
 
 Lockscreen
 
