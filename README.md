@@ -16,7 +16,7 @@ Please combine all issues and requests into one, as it gets cluttered with a sep
 
 ## Current Features
 
-SpringBoard
+SpringBoard (System Wide)
 
 * Hide Dock background
 * Hide Table View separators
@@ -54,6 +54,7 @@ SpringBoard
 * Set custom number of Dock icons
 * Change FaceID animation duration
 * Use custom icon label colors
+* Force Light or Dark mode for specific apps
 
 Lockscreen
 
@@ -115,6 +116,7 @@ Messages
 
 * Hide “Share Photo” option
 * Hide iMessage app strip
+* Use custom bubble color
 
 Photos
 
