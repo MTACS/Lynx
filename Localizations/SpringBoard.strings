@@ -1,0 +1,136 @@
+<plist version="1.0">
+<dict>
+    <key>APP_INTERFACE_STYLE</key>
+    <string>App Interface Style</string>
+    <key>DARK_MODE</key>
+    <string>Dark</string>
+    <key>LIGHT_MODE</key>
+    <string>Light</string>
+    <key>DOCK</key>
+    <string>Dock</string>
+    <key>HIDE_DOCK_BACKGROUND</key>
+    <string>Hide Background</string>
+    <key>USE_CUSTOM_ICON_COUNT</key>
+    <string>Use Custom Icon Count</string>
+    <key>HOME_BAR</key>
+    <string>Home Bar</string>
+    <key>HIDE_BAR_EVERYWHERE</key>
+    <string>Hide Everywhere</string>
+    <key>TABLE_VIEWS</key>
+    <string>Table Views</string>
+    <key>HIDE_TABLE_VIEW_SEPARATORS</key>
+    <string>Hide Separators</string>
+    <key>USE_CUSTOM_COLOR</key>
+    <string>Use Custom Color</string>
+    <key>COLORPICKER_TINT_COLOR</key>
+    <string>Tint Color</string>
+    <key>SEARCH_BARS</key>
+    <string>Search Bars</string>
+    <key>HIDE_SEARCH_BARS</key>
+    <string>Hide Completely</string>
+    <key>HIDE_SEARCH_BAR_BACKGROUND</key>
+    <string>Hide Background</string>
+    <key>SEARCH_BAR_WARNING</key>
+    <string>Hiding Search Bars may cause apps to act strange, this is intentional based on the way they're hidden</string>
+    <key>SCREENSHOTS</key>
+    <string>Screenshots</string>
+    <key>HIDE_FLASH</key>
+    <string>Hide Flash</string>
+    <key>FLASH_TINT_COLOR</key>
+    <string>Flash Tint Color</string>
+    <key>SCROLL_INDICATORS</key>
+    <string>Scroll View Indicators</string>
+    <key>HIDE_SCROLL_BARS</key>
+    <string>Hide Scroll Bars</string>
+    <key>NAVIGATION_BARS</key>
+    <string>Navigation Bars</string>
+    <key>HIDE_SHADOW_IMAGE</key>
+    <string>Hide Shadow Image</string>
+    <key>FOLDERS</key>
+    <string>Folders</string>
+    <key>HIDE_FOLDER_TITLES</key>
+    <string>Hide Folder Titles</string>
+    <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
+    <string>Hide Open Background</string>
+    <key>HIDE_FOLDER_ICON_BACKGROUND</key>
+    <string>Hide Folder Icon Background</string>
+    <key>CLOSE_FOLDER_AUTOMATICALLY</key>
+    <string>Close Automatically</string>
+    <key>ICONS</key>
+    <string>Icons</string>
+    <key>HIDE_LABELS</key>
+    <string>Hide Labels</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Hide Page Dots</string>
+    <key>HIDE_UPDATE_DOTS</key>
+    <string>Hide Update Dots</string>
+    <key>SHOW_DONE_BUTTON</key>
+    <string>Show 'Done' Button</string>
+    <key>USE_CUSTOM_LABEL_COLOR</key>
+    <string>Use Custom Label Color</string>
+    <key>SWITCHES</key>
+    <string>Switches</string>
+    <key>USE_CUSTOM_SWITCH_COLOR</key>
+    <string>Use Custom On Color</string>
+    <key>BADGES</key>
+    <string>Badges</string>
+    <key>HIDE_BADGES</key>
+    <string>Hide Badges</string>
+    <key>USE_AVERAGE_COLOR</key>
+    <string>Use Average Color</string>
+    <key>FORCE_TOUCH</key>
+    <string>3D Touch</string>
+    <key>HIDE_SHARE_OPTION</key>
+    <string>Hide Share App Option</string>
+    <key>HIDE_DELETE_OPTION</key>
+    <string>Hide Delete App Option</string>
+    <key>HIDE_EDIT_OPTION</key>
+    <string>Hide Edit Option</string>
+    <key>REVERSE_ACTION_ORDER</key>
+    <string>Reverse Action Order</string>
+    <key>HIDE_ACTION_ICONS</key>
+    <string>Hide Action Icons</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Show IP Address</string>
+    <key>SHOW_BATTERY_LEVEL</key>
+    <string>Show Battery Level</string>
+    <key>HIDE_SEPARATOR_LINES</key>
+    <string>Hide Separator Lines</string>
+    <key>SCREEN_TIME</key>
+    <string>ScreenTime</string>
+    <key>DISABLE_ICON_DARKENING</key>
+    <string>Disable Icon Darkening</string>
+    <key>DISABLE_HOURGLASS_ICON</key>
+    <string>Disable Hourglass Icon</string>
+    <key>BREADCRUMBS</key>
+    <string>Breadcrumbs</string>
+    <key>HIDE_APP_BREADCRUMBS</key>
+    <string>Hide App Breadcrumbs</string>
+    <key>TAB_BAR_LABELS</key>
+    <string>Tab Bar Labels</string>
+    <key>HIDE_TAB_BAR_LABELS</key>
+    <string>Hide Tab Bar Labels</string>
+    <key>HOMESCREEN_WIDGETS</key>
+    <string>Homescreen Widgets</string>
+    <key>HIDE_ADD_WIDGET_TEXT</key>
+    <string>Hide 'Add Widget' Text</string>
+    <key>FACEID_ALERT</key>
+    <string>FaceID Popup</string>
+    <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
+    <string>Use Custom FaceID Animations</string>
+    <key>FACID_DISMISSAL_TIME</key>
+    <string>FaceID Dismissal Time</string>
+    <key>FACEID_ANIMATION_LENGTH</key>
+    <string>FaceID Animation Length</string>
+    <key>LOW_POWER_MODE</key>
+    <string>Low Power Mode</string>
+    <key>DISABLE_AUTO_LOCK</key>
+    <string>Disable Auto Lock</string>
+    <key>ANIMATIONS</key>
+    <string>Animations</string>
+    <key>ICON_FLY_IN</key>
+    <string>Disable Icon Fly-In</string>
+    <key>SYSTEM_WIDE</key>
+    <string>System Wide</string>
+</dict>
+</plist>

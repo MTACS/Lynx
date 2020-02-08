@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+    <key>WIDGETS_VIEW</key>
+    <string>Widgets View</string>
+    <key>HIDE_EDIT_BUTTON</key>
+    <string>Hide Edit Button</string>
+    <key>HIDE_WEATHER_INFO</key>
+    <string>Hide Weather Info Text</string>
+    <key>DISABLE_ON_LOCKSCREEN</key>
+    <string>Disable on Lockscreen</string>
+    <key>DISABLE_ON_SPRINGBOARD</key>
+    <string>Disable on SpringBoard</string>
+    <key>TODAY_VIEW</key>
+    <string>Today View</string>
+</dict>
+</plist>
