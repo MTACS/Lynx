@@ -43,7 +43,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 - [x] Camera Section
 - [x] Phone Section
 - [x] CarPlay Section
-- [ ] Experimental Section
+- [x] Experimental Section
 - [ ] YouTube Section
 - [ ] SoundCloud Section
 - [ ] Instagram Section
