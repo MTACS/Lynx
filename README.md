@@ -84,6 +84,8 @@ Lockscreen
 * Hide camera button (iPhone X)
 * Hide top FaceID text (iPhone X)
 * Disable unlock fly-in animation
+* Hide 'Enter Passcode' text
+* Use custom 'Enter Passcode' text
 
 AppSwitcher
 
