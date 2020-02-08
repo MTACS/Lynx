@@ -10,6 +10,10 @@ Available on [Twickd](https://repo.twickd.com/)
 
 Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphics and testing
 
+## Localizations
+
+Lynx is full localized to work with the langauge of your device. If you'd like to contribute to adding more langauages, please refer to the Localizations folder in this repository. Instructions on how to add your languages are included [here.](https://github.com/MTAC/Lynx)
+
 ## Feature Requests and Bug Reports via GitHub
 
 Please combine all issues and requests into one, as it gets cluttered with a separate one for each
