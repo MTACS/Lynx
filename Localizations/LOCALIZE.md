@@ -20,8 +20,8 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 
 <plist version="1.0">
 <dict>
-    <key>ENABLE_TWEAK</key>
-    <string>Activé</string>
+    <key>ENABLE_TWEAK</key> // This must not be changed
+    <string>Activé</string> // Localized text
 </dict>
 </plist>
 
