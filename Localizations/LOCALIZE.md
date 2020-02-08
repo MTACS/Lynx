@@ -24,5 +24,26 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
     <string>Activé</string> // Localized text
 </dict>
 </plist>
+```
 
+### Fully Localized Sections
 
+- [x] Main Tweak Page
+- [x] System Wide Section
+- [x] Lockscreen Section
+- [x] App Switcher Section
+- [x] Status Bar Section
+- [x] Control Center Section
+- [ ] Today View Section
+- [ ] Messages Section
+- [ ] Settings Section
+- [ ] Photos Section
+- [ ] Safari Section
+- [ ] App Store Section
+- [ ] Camera Section
+- [ ] Phone Section
+- [ ] CarPlay Section
+- [ ] Experimental Section
+- [ ] YouTube Section
+- [ ] SoundCloud Section
+- [ ] Instagram Section
