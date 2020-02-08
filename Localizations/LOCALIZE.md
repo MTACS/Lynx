@@ -14,4 +14,15 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 </plist>
 ```
 
+```objective-c
+
+// Example of French
+
+<plist version="1.0">
+<dict>
+    <key>ENABLE_TWEAK</key>
+    <string>Activé</string>
+</dict>
+</plist>
+
 
