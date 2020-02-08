@@ -39,8 +39,8 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 - [x] Settings Section
 - [x] Photos Section
 - [x] Safari Section
-- [ ] App Store Section
-- [ ] Camera Section
+- [x] App Store Section
+- [x] Camera Section
 - [ ] Phone Section
 - [ ] CarPlay Section
 - [ ] Experimental Section
