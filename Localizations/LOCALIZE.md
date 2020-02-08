@@ -36,7 +36,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 - [x] Control Center Section
 - [x] Today View Section
 - [x] Messages Section
-- [ ] Settings Section
+- [x] Settings Section
 - [ ] Photos Section
 - [ ] Safari Section
 - [ ] App Store Section
