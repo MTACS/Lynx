@@ -46,4 +46,4 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 - [x] Experimental Section
 - [x] YouTube Section
 - [x] SoundCloud Section
-- [ ] Instagram Section
+- [x] Instagram Section
