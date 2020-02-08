@@ -93,6 +93,8 @@ Control Center
 
 * Hide Status bar
 * Hide message when toggling
+* Hide module separators
+* Actually disable/enable toggles
 
 Status Bar
 
