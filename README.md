@@ -12,7 +12,7 @@ Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphi
 
 ## Localizations
 
-Lynx is full localized to work with the langauge of your device. If you'd like to contribute to adding more langauages, please refer to the Localizations folder in this repository. Instructions on how to add your languages are included [here.](https://github.com/MTACS/Lynx/Localizations/LOCALIZE.md)
+Lynx is full localized to work with the langauge of your device. If you'd like to contribute to adding more langauages, please refer to the Localizations folder in this repository. Instructions on how to add your languages are included [here.](https://github.com/MTACS/Lynx/blob/master/Localizations/LOCALIZE.md)
 
 ## Feature Requests and Bug Reports via GitHub
 
