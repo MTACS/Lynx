@@ -42,7 +42,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 - [x] App Store Section
 - [x] Camera Section
 - [x] Phone Section
-- [ ] CarPlay Section
+- [x] CarPlay Section
 - [ ] Experimental Section
 - [ ] YouTube Section
 - [ ] SoundCloud Section
