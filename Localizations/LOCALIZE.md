@@ -5,6 +5,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 ### Currently supported languages
 
 * English
+* Arabic
 
 ## Localizing Text
 
