@@ -1,0 +1,96 @@
+<plist version="1.0">
+<dict>
+    <key>CLOCK</key>
+    <string>Ρολόι</string>
+    <key>HIDE_TIME_LABEL</key>
+    <string>Απόκρυψη της ώρας</string>
+    <key>HIDE_DATE_LABEL</key>
+    <string>Απόκρυψη της ημερομηνίας</string>
+    <key>CLOCK_FONT_STYLE</key>
+    <string>Φόντο της ώρας</string>
+    <key>CLOCK_FONT_WEIGHT</key>
+    <string>Βάρος γραμματοσειράς της ώρας</string>
+    <key>DEFAULT_FONT</key>
+    <string>Προκαθορισμένο</string>
+    <key>BOLD_FONT</key>
+    <string>Bold</string>
+    <key>ITALIC_FONT</key>
+    <string>Italic</string>
+    <key>MEDIUM_FONT</key>
+    <string>Μέτριο</string>
+    <key>CONTROL_CENTER_GRABBER</key>
+    <string>Grabber του κέντρου ελέγχου</string>
+    <key>HIDE_CONTROL_CENTER_GRABBER</key>
+    <string>Απόκρυψη του grabber του κέντρου ελέγχου</string>
+    <key>CHARGING_VIEW</key>
+    <string>Προβολή φόρτισης</string>
+    <key>HIDE_BATTERY_VIEW</key>
+    <string>Απόκρυψη προβολής φόρτισης</string>
+    <key>PAGE_DOTS</key>
+    <string>Δείκτες σελίδων</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Απόκρυψη δεικτών σελίδων</string>
+    <key>NOTIFICATIONS</key>
+    <string>Ειδοποιήσεις</string>
+    <key>HIDE_APP_NAMES</key>
+    <string>Απόκρυψη ονομάτων εφαρμογών</string>
+    <key>HIDE_TIME_LABELS</key>
+    <string>Απόκρυψη της ώρας έλευσης των ειδοποιήσεων</string>
+    <key>HIDE_NOTIFICATION_CENTER_TEXT</key>
+    <string>Απόκρυψη του κειμένου 'Κέντρο Ειδοποιήσεων'</string>
+    <key>SET_NOTIFICATION_CENTER_TEXT</key>
+    <string>Τροποποίηση του κειμένου 'Κέντρο Ειδοποιήσεων'</string>
+    <key>NOTIFICATION_CENTER_PLACEHOLDER</key>
+    <string>Κέντρο Ειδοποιήσεων</string>
+    <key>PASSCODE_SCREEN</key>
+    <string>Οθόνη κωδικού</string>
+    <key>HIDE_FACE_ID_LOCK</key>
+    <string>Απόκρυψη του εικονιδίου λουκέτου για το FaceID</string>
+    <key>HIDE_PASSCODE_BACKGROUND</key>
+    <string>Απόκρυψη του υποβάθρου της οθόνης κωδικού</string>
+    <key>HIDE_EMERGENCY_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού έκτακτης ανάγκης</string>
+    <key>HIDE_CANCEL_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού ακύρωσης</string>
+    <key>HIDE_BACKSPACE_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού διαγραφής</string>
+    <key>HIDE_ENTER_PASSCODE_TEXT</key>
+    <string>Απόκρυψη του κειμένου 'Εισαγωγή κωδικού'</string>
+    <key>USE_CUSTOM_PASSCODE_TEXT</key>
+    <string>Χρήση προσαρμοσμένου κειμένου κωδικού</string>
+    <key>ENTER_PASSCODE_PLACEHOLDER</key>
+    <string>Εισαγωγή Κωδικού</string>
+    <key>QUICK_ACTION_BUTTONS</key>
+    <string>Κουμπιά γρήγορης πρόσβασης</string>
+    <key>HIDE_BOTH</key>
+    <string>Απόκρυψη και των δύο</string>
+    <key>HIDE_TORCH_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού φακού</string>
+    <key>HIDE_CAMERA_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού κάμερας</string>
+    <key>UNLOCK_TEXT</key>
+    <string>Κείμενο Ξεκλειδώματος</string>
+    <key>HIDE_SWIPE_PRESS</key>
+    <string>Απόκρυψη του κειμένου Σύρετε προς τα πάνω/Πατήστε για ξεκλείδωμα</string>
+    <key>HIDE_TOP_SWIPE_TEXT</key>
+    <string>Απόκρυψη του κειμένου 'Σύρετε' στο πάνω μέρος της οθόνης</string>
+    <key>OLDER_NOTIFICATIONS</key>
+    <string>Παλαιότερες ειδοποιήσεις</string>
+    <key>HIDE_NO_OLDER_NOTIFICATIONS</key>
+    <string>Απόκρυψη του κειμένου 'Δεν υπάρχουν παλαιότερες ειδοποιήσεις'</string>
+    <key>CAMERA</key>
+    <string>Κάμερα</string>
+    <key>DISABLE_CAMERA_SWIPE</key>
+    <string>Απενεργοποίηση του συρσίματος για το άνοιγμα της κάμερας</string>
+    <key>FORCE_ENABLE_CAMERA</key>
+    <string>Επιβολή ενεργοποίησης της κάμερας</string>
+    <key>FORCE_CAMERA_STRING</key>
+    <string>Η ενεργοποίηση της ρύθμισης 'Επιβολή ενεργοποίησης της κάμερας' δουλεύει μόνο όταν απενεργοποιείται το σύρσιμο για την εμφάνιση της κάμερας</string>
+    <key>MEDIA_CONTROLS</key>
+    <string>Κουμπιά ελέγχου αναπαραγωγής</string>
+    <key>HIDE_MEDIA_PLAYER</key>
+    <string>Απόκρυψη του παραθύρου αναπαραγωγής</string>
+    <key>LOCKSCREEN</key>
+    <string>Οθόνη κλειδώματος</string>
+</dict>
+</plist>
