@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+    <key>NOTIFICATION_ICONS</key>
+    <string>Εικονίδια ειδοποιήσεων</string>
+    <key>USE_MODERN_STYLE</key>
+    <string>Χρήση μοντέρνου στυλ</string>
+    <key>AUTO_LAYOUT</key>
+    <string>Επιβολή αυτόματης διάταξης</string>
+    <key>USE_CIRCLE_ICONS</key>
+    <string>Χρήση στρογγυλών εικονιδίων</string>
+    <key>AUTO_LAYOUT_PLACEHOLDER</key>
+    <string>Η επιβολή της αυτόματης διάταξης μπορεί να κάνει τα εικονίδια να αναπηδήσουν κατά το άνοιγμα της στοίβας των εδιοποιήσεων</string>
+    <key>EXPERIMENTAL</key>
+    <string>Σε πειραματικό στάδιο</string>
+</dict>
+</plist>

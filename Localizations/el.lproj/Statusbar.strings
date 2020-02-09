@@ -1,0 +1,28 @@
+<plist version="1.0">
+<dict>
+    <key>STATUS_ITEMS</key>
+    <string>Εικονίδια κατάστασης</string>
+    <key>HIDE_WIFI_SIGNAL</key>
+    <string>Απόκρυψη εικονιδίου WiFi</string>
+    <key>HIDE_CELLULAR_SIGNAL</key>
+    <string>Απόκρυψη εικονιδίου τηλεφωνικού σήματος</string>
+    <key>HIDE_BATTERY</key>
+    <string>Απόκρυψη εικονιδίου μπαταρίας</string>
+    <key>LOCKSCREEN</key>
+    <string>Οθόνη κλειδώματος</string>
+    <key>HIDE_LOCK_ICON</key>
+    <string>Απόκρυψη εικονιδίου κλειδώματος</string>
+    <key>LOCK_ICON_PLACEHOLDER</key>
+    <string>Η απόκρυψη του εικονιδίου κλειδώματος λειτουργεί σε iphone 8 ή παλαιότερο</string>
+    <key>HOTSPOT_AND_RECORDING</key>
+    <string>Hotspot και εγγραφή</string>
+    <key>HIDE_COLORED_VIEW</key>
+    <string>Απόκρυψη προβολής χρωμάτων</string>
+    <key>HIDE_PULSING_VIEW</key>
+    <string>Απόκρυψη προβολής παλμών</string>
+    <key>ROUNDED_VIEW_PLACEHOLDER</key>
+    <string>Η ενεργοποίηση της λειτουργίας 'Απόκρυψη προβολής χρωμάτων' επηρεάζει τις υπηρεσίες τοποθεσίας, το Hotspot και την εγγραφή οθόνης σε iPhone X και νεότερα</string>
+    <key>STATUS_BAR</key>
+    <string>Μπάρα κατάστασης</string>
+</dict>
+</plist>
