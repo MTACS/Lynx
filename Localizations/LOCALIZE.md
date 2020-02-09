@@ -6,6 +6,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 
 * English
 * Arabic
+* French
 
 ## Localizing Text
 
