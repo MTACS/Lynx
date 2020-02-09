@@ -1,0 +1,14 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>نمط العرض</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>إستخدام نمط أيباد</string>
+    <key>PREVIEW</key>
+    <string>عرض الصور</string>
+    <key>HIDE_RECENT_PREVIEW</key>
+    <string>أخفاء الصور الملتقطة</string>
+    <key>CAMERA</key>
+    <string>الكاميرا</string>
+</dict>
+</plist>

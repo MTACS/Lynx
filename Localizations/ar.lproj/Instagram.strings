@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>POSTS</key>
+    <string>إظهار إعجابات البوستات</string>
+    <key>SHOW_LIKES</key>
+    <string>عرض الإعجابات</string>
+</dict>
+</plist>

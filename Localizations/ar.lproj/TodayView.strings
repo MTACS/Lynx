@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+    <key>WIDGETS_VIEW</key>
+    <string>صفحة واجهة رسومية</string>
+    <key>HIDE_EDIT_BUTTON</key>
+    <string>أخفاء زر تعدبل</string>
+    <key>HIDE_WEATHER_INFO</key>
+    <string>أخفاء معلومات طقس</string>
+    <key>DISABLE_ON_LOCKSCREEN</key>
+    <string>أخفاء من شاشة القفل</string>
+    <key>DISABLE_ON_SPRINGBOARD</key>
+    <string>اخفاء من شاشة رئيسية</string>
+    <key>TODAY_VIEW</key>
+    <string>الصفحة اليومية</string>
+</dict>
+</plist>

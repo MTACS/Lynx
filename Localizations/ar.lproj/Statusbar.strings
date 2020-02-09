@@ -1,0 +1,28 @@
+<plist version="1.0">
+<dict>
+    <key>STATUS_ITEMS</key>
+    <string>عناصر شريط الحالة</string>
+    <key>HIDE_WIFI_SIGNAL</key>
+    <string>أخفاء الواي فاي</string>
+    <key>HIDE_CELLULAR_SIGNAL</key>
+    <string>أخفاء شبكة الأتصال</string>
+    <key>HIDE_BATTERY</key>
+    <string>أخفاء البطارية</string>
+    <key>LOCKSCREEN</key>
+    <string>شاشة القفل</string>
+    <key>HIDE_LOCK_ICON</key>
+    <string>أخفاء القفل</string>
+    <key>LOCK_ICON_PLACEHOLDER</key>
+    <string>أخفاء القفل يعمل مع أجهزة أيفون (5 اس - 8)</string>
+    <key>HOTSPOT_AND_RECORDING</key>
+    <string>نقطة الأتصال و  تسجيل الشاشة</string>
+    <key>HIDE_COLORED_VIEW</key>
+    <string>أخفاء لون العرض</string>
+    <key>HIDE_PULSING_VIEW</key>
+    <string>أخفاء النبض</string>
+    <key>ROUNDED_VIEW_PLACEHOLDER</key>
+    <string>يؤثر تمكين "إخفاء العرض الملون" على خدمات الموقع ونقطة الاتصال وتسجيل الشاشة على iPhone X أو الأحدث</string>
+    <key>STATUS_BAR</key>
+    <string>شريط الحالة</string>
+</dict>
+</plist>

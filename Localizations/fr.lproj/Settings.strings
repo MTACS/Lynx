@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>CELLS</key>
+    <string>Réseau cellulaire</string>
+    <key>HIDE_THIRD_PARTY_APPS</key>
+    <string>Cacher les Applications tierces</string>
+    <key>HIDE_CELL_ICONS</key>
+    <string>Cacher les icones réseau cellulaire</string>
+    <key>NETWORK</key>
+    <string>Réseau</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Montrer l'addresse IP</string>
+    <key>SHOW_ETHERNET_SECTION</key>
+    <string>Montrer la section Ethernet</string>
+    <key>SETTINGS</key>
+    <string>Paramètres</string>
+</dict>
+</plist>

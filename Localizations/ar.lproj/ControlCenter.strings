@@ -1,0 +1,18 @@
+<plist version="1.0">
+<dict>
+    <key>STATUS_BAR</key>
+    <string>شريط الحالة</string>
+    <key>HIDE_STATUS_BAR</key>
+    <string>أخفاء شريط الحالة</string>
+    <key>HIDE_TOGGLE_HINTS</key>
+    <string>أخفاء الوان العناصر</string>
+    <key>CONNECTIVITY</key>
+    <string>الأتصال</string>
+    <key>HIDE_CONNECTIVITY_SEPARATORS</key>
+    <string>إخفاء فواصل الاتصال</string>
+    <key>DISABLE_TOGGLES</key>
+    <string>أغلاق تام للعناصر</string>
+    <key>CONTROL_CENTER</key>
+    <string>مركز التحكم</string>
+</dict>
+</plist>
