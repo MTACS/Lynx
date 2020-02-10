@@ -86,6 +86,7 @@ Lockscreen
 * Disable unlock fly-in animation
 * Hide 'Enter Passcode' text
 * Use custom 'Enter Passcode' text
+* Use passcode button haptic feedback
 
 AppSwitcher
 
