@@ -177,7 +177,7 @@ CarPlay
 
 Experimental features
 
-* Use modern notifications, with custom icon radius and icon shadow
+* Use modern notifications, with circle icons and icon shadow
 
 # Requesting features
 
