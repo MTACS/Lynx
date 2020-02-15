@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>样式</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>使用网格式后台</string>
+    <key>HANDOFF</key>
+    <string>接力</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>隐藏应用建议</string>
+    <key>APP_CARDS</key>
+    <string>应用标签</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>隐藏应用名称</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>隐藏应用图标</string>
+    <key>NOW_PLAYING</key>
+    <string>正在播放的应用程序</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>防止关闭正在播放的应用程序</string>
+    <key>APP_SWITCHER</key>
+    <string>应用程序切换</string>
+</dict>
+</plist>

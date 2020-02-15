@@ -1,0 +1,57 @@
+<plist version="1.0">
+<dict>
+    <key>MAIN_TWEAK_SETTINGS</key>
+    <string>基本调整设置</string>
+    <key>ENABLE_TWEAK</key>
+    <string>启用调整</string>
+    <key>SECTIONS</key>
+    <string>模块</string>
+    <key>SYSTEM_WIDE</key>
+    <string>整个系统</string>
+    <key>LOCKSCREEN</key>
+    <string>锁屏</string>
+    <key>APP_SWITCHER</key>
+    <string>应用程序切换</string>
+    <key>STATUS_BAR</key>
+    <string>状态栏</string>
+    <key>CONTROL_CENTER</key>
+    <string>控制中心</string>
+    <key>WIDGETS_VIEW</key>
+    <string>今日视图</string>
+    <key>MESSAGES_SECTION</key>
+    <string>信息</string>
+    <key>SETTINGS_SECTION</key>
+    <string>设置</string>
+    <key>PHOTOS_SECTION</key>
+    <string>照片</string>
+    <key>SAFARI_SECTION</key>
+    <string>Safari浏览器</string>
+    <key>APP_STORE_SECTION</key>
+    <string>应用商店</string>
+    <key>CAMERA_SECTION</key>
+    <string>相机</string>
+    <key>PHONE_SECTION</key>
+    <string>电话</string>
+    <key>OTHER_HEADER</key>
+    <string>其他</string>
+    <key>EXPERIMENTAL_SECTION</key>
+    <string>实验性设置</string>
+    <key>THIRD_PARTY_SECTION</key>
+    <string>第三方应用</string>
+    <key>CONTACT_DEVELOPER</key>
+    <string>联系开发人员</string>
+    <key>SUPPORT_HEADER</key>
+    <string>支持</string>
+    <key>REQUEST_FEATURE</key>
+    <string>要求功能</string>
+    <key>REPORT_BUG</key>
+    <string>反馈BUG</string>
+    <key>TWEAK_GRAPHICS</key>
+    <string>设计者</string>
+    <key>TRANSLATIONS</key>
+    <string>翻译</string>
+    <key>CONTRIBUTORS</key>
+    <string>贡献者</string>
+</dict>
+</plist>
+© 2020 GitHub, Inc.
