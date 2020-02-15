@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>UPDATES_TAB</key>
+    <string>更新标签</string>
+    <key>REPLACE_UPDATES</key>
+    <string>用更新标签替换Arcade标签</string>
+</dict>
+</plist>
