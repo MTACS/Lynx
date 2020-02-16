@@ -140,6 +140,7 @@ Settings
 * Hide cell icons
 * Show IP address in Wi-Fi section
 * Show Ethernet section
+* Add device info button
 
 Camera
 
