@@ -5,12 +5,12 @@
     <key>HIDE_EDIT_BUTTON</key>
     <string>隐藏编辑按钮</string>
     <key>HIDE_WEATHER_INFO</key>
-    <string>隐藏天气信息文字</string>
+    <string>隐藏天气信息来源</string>
     <key>DISABLE_ON_LOCKSCREEN</key>
-    <string>在锁屏上禁用</string>
+    <string>在锁屏界面禁用</string>
     <key>DISABLE_ON_SPRINGBOARD</key>
     <string>在桌面上禁用</string>
     <key>TODAY_VIEW</key>
-    <string>今日视图设置</string>
+    <string>今日视图</string>
 </dict>
 </plist>
