@@ -102,6 +102,7 @@ Control Center
 * Hide message when toggling
 * Hide module separators
 * Actually disable/enable toggles
+* Use dark modules
 
 Status Bar
 
@@ -110,6 +111,7 @@ Status Bar
 * Hide Battery view
 * Hide clock
 * Hide Lock Icon (iPhone 8 and below)
+* Hide status bar ()
 
 Today View (Widgets)
 
