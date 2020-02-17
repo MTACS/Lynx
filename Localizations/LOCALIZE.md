@@ -10,6 +10,8 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 * Greek
 * German
 * Chinese (Simplified)
+* Persian
+* Turkish
 
 ## Localizing Text
 
