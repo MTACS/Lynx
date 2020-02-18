@@ -111,7 +111,6 @@ Status Bar
 * Hide Battery view
 * Hide clock
 * Hide Lock Icon (iPhone 8 and below)
-* Hide status bar ()
 
 Today View (Widgets)
 
