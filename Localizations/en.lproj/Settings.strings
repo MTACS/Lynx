@@ -14,5 +14,9 @@
     <string>Show Ethernet Section</string>
     <key>SETTINGS</key>
     <string>Settings</string>
+    <key>OTHER</key>
+    <string>Other</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>Add Info Button</string>
 </dict>
 </plist>
