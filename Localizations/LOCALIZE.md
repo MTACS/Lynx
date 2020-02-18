@@ -12,6 +12,7 @@ To add a new langauge to Lynx, fork or clone this repository. Create a new folde
 * Chinese (Simplified)
 * Persian
 * Turkish
+* Spanish
 
 ## Localizing Text
 
