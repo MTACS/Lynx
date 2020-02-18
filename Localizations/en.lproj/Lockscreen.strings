@@ -100,7 +100,5 @@
     <string>Hide Banner</string>
     <key>NOTIFICATION_HEIGHT</key>
     <string>Notification Height</string>
-    <key></key>
-    <string></string>
 </dict>
 </plist>
