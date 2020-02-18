@@ -24,5 +24,11 @@
     <string>Enabling 'Hide Colored View' affects Location Services, Hotspot and Screen Recording on iPhone X or newer</string>
     <key>STATUS_BAR</key>
     <string>Status Bar</string>
+    <key>HIDE_EVERYWHERE</key>
+    <string>Hide Everywhere</string>
+    <key>HIDING</key>
+    <string>Hiding</string>
+    <key>HIDE_CLOCK</key>
+    <string>Hide Clock</string>
 </dict>
 </plist>
