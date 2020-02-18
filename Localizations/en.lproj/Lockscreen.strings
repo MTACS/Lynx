@@ -92,5 +92,15 @@
     <string>Hide Media Player</string>
     <key>LOCKSCREEN</key>
     <string>Lockscreen</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>Use Haptic Feedback</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Do Not Disturb</string>
+    <key>HIDE_BANNER</key>
+    <string>Hide Banner</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Notification Height</string>
+    <key></key>
+    <string></string>
 </dict>
 </plist>
