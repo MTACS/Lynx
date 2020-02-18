@@ -13,7 +13,7 @@
     <key>APP_SWITCHER</key>
     <string>App Switcher</string>
     <key>STATUS_BAR</key>
-    <string>Statusbar</string>
+    <string>Status Bar</string>
     <key>CONTROL_CENTER</key>
     <string>Control Center</string>
     <key>WIDGETS_VIEW</key>
