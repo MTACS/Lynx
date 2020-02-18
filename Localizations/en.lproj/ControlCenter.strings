@@ -16,5 +16,7 @@
     <string>Control Center</string>
     <key>USE_DARK_MODULES</key>
     <string>Use Dark Modules</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Dark Modules doesn't work for the Flashlight module</string>
 </dict>
 </plist>
