@@ -80,6 +80,7 @@ Lockscreen
 * Hide Control Center grabber
 * Hide 'No Older Notifications' text
 * Disable camera
+* Hide Do Not Disturb banner
 * Hide flashlight button (iPhone X)
 * Hide camera button (iPhone X)
 * Hide top FaceID text (iPhone X)
@@ -87,6 +88,7 @@ Lockscreen
 * Hide 'Enter Passcode' text
 * Use custom 'Enter Passcode' text
 * Use passcode button haptic feedback
+* Use custom notifications height
 
 AppSwitcher
 
@@ -126,7 +128,7 @@ Messages
 
 * Hide “Share Photo” option
 * Hide iMessage app strip
-* Use custom bubble color
+* Use custom bubble color(s)
 
 Photos
 
