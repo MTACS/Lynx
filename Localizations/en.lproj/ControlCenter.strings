@@ -14,5 +14,7 @@
     <string>Actually Disable Toggles</string>
     <key>CONTROL_CENTER</key>
     <string>Control Center</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Use Dark Modules</string>
 </dict>
 </plist>
