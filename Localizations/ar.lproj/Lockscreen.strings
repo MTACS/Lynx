@@ -92,5 +92,13 @@
     <string>أخفاء تام</string>
     <key>LOCKSCREEN</key>
     <string>شاشة القفل</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>أستخدام هزاز الهابتك</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>وضع عدم الأزعاج</string>
+    <key>HIDE_BANNER</key>
+    <string>أخفاء البانر</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>مستوى أرتفاع الإشعارات</string>
 </dict>
 </plist>

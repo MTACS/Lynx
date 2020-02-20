@@ -14,5 +14,9 @@
     <string>إظهار قسم أتصال السلكي</string>
     <key>SETTINGS</key>
     <string>الإعدادات</string>
+    <key>OTHER</key>
+    <string>أزرار أضافية</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>أضافة زر معلومات</string>
 </dict>
 </plist>

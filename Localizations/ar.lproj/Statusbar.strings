@@ -24,5 +24,11 @@
     <string>يؤثر تمكين "إخفاء العرض الملون" على خدمات الموقع ونقطة الاتصال وتسجيل الشاشة على iPhone X أو الأحدث</string>
     <key>STATUS_BAR</key>
     <string>شريط الحالة</string>
+    <key>HIDE_EVERYWHERE</key>
+    <string>إخفاء من كل مكان</string>
+    <key>HIDING</key>
+    <string>إخفاء</string>
+    <key>HIDE_CLOCK</key>
+    <string>إخفاء الساعة</string>
 </dict>
 </plist>
