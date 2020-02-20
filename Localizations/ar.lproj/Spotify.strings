@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>POPUPS</key>
+    <string>ظهور مفاجئ</string>
+    <key>BLOCK_RATE_US</key>
+    <string>حظر أشعار التقييم</string>
+</dict>
+</plist>

@@ -14,5 +14,9 @@
     <string>أغلاق تام للعناصر</string>
     <key>CONTROL_CENTER</key>
     <string>مركز التحكم</string>
+    <key>USE_DARK_MODULES</key>
+    <string>أستخدم لون داكن</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>أستخدام وضع داكن لايعمل مع المصباح</string>
 </dict>
 </plist>
