@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Stil</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>Verwenden Sie den Grid Switcher(IPad-Style)</string>
+    <key>HANDOFF</key>
+    <string>Weiterleiten</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>App-Vorschläge ausblenden</string>
+    <key>APP_CARDS</key>
+    <string>App-Karten</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>App-Beschriftung ausblenden</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>App-Symbole ausblenden</string>
+    <key>NOW_PLAYING</key>
+    <string>Läuft gerade</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>Verhindern, dass das Abspielen von Apps beendet wird</string>
+    <key>APP_SWITCHER</key>
+    <string>App Switcher</string>
+</dict>
+</plist>

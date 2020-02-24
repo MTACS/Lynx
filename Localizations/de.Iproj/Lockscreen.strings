@@ -1,0 +1,96 @@
+<plist version="1.0">
+<dict>
+    <key>CLOCK</key>
+    <string>Uhr</string>
+    <key>HIDE_TIME_LABEL</key>
+    <string>Zeitbeschriftung ausblenden</string>
+    <key>HIDE_DATE_LABEL</key>
+    <string>Datumsbezeichnung ausblenden</string>
+    <key>CLOCK_FONT_STYLE</key>
+    <string>Uhr-Schriftstyle</string>
+    <key>CLOCK_FONT_WEIGHT</key>
+    <string>Schriftstärke der Uhr</string>
+    <key>DEFAULT_FONT</key>
+    <string>Standard</string>
+    <key>BOLD_FONT</key>
+    <string>Fett</string>
+    <key>ITALIC_FONT</key>
+    <string>Kursiv</string>
+    <key>MEDIUM_FONT</key>
+    <string>Mittel</string>
+    <key>CONTROL_CENTER_GRABBER</key>
+    <string>Control Center Grabber</string>
+    <key>HIDE_CONTROL_CENTER_GRABBER</key>
+    <string>Control Center Grabber ausblenden</string>
+    <key>CHARGING_VIEW</key>
+    <string>Ladeansicht</string>
+    <key>HIDE_BATTERY_VIEW</key>
+    <string>Batterieansicht ausblenden</string>
+    <key>PAGE_DOTS</key>
+    <string>Seitenpunkte</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Seitenpunkte ausblenden</string>
+    <key>NOTIFICATIONS</key>
+    <string>Benachrichtigungen</string>
+    <key>HIDE_APP_NAMES</key>
+    <string>Anwendungsnamen ausblenden</string>
+    <key>HIDE_TIME_LABELS</key>
+    <string>Zeitbeschriftungen ausblenden</string>
+    <key>HIDE_NOTIFICATION_CENTER_TEXT</key>
+    <string>Text der "Benachrichtigungszentrale" ausblenden</string>
+    <key>SET_NOTIFICATION_CENTER_TEXT</key>
+    <string>Legen Sie den Text für das "Benachrichtigungscenter" fest</string>
+    <key>NOTIFICATION_CENTER_PLACEHOLDER</key>
+    <string>Benachrichtungsenter</string>
+    <key>PASSCODE_SCREEN</key>
+    <string>Passcode-Bildschirm</string>
+    <key>HIDE_FACE_ID_LOCK</key>
+    <string>FaceID-Vorhängeschloss ausblenden</string>
+    <key>HIDE_PASSCODE_BACKGROUND</key>
+    <string>Passcode-Hintergrund ausblenden</string>
+    <key>HIDE_EMERGENCY_BUTTON</key>
+    <string>Notruftaste ausblenden</string>
+    <key>HIDE_CANCEL_BUTTON</key>
+    <string>Schaltfläche "Abbrechen" ausblenden</string>
+    <key>HIDE_BACKSPACE_BUTTON</key>
+    <string>Schaltfläche "Löschen" ausblenden</string>
+    <key>HIDE_ENTER_PASSCODE_TEXT</key>
+    <string>Text 'Passwort eingeben' ausblenden</string>
+    <key>USE_CUSTOM_PASSCODE_TEXT</key>
+    <string>Verwenden Sie benutzerdefinierten Passcode-Text</string>
+    <key>ENTER_PASSCODE_PLACEHOLDER</key>
+    <string>Passwort eingeben</string>
+    <key>QUICK_ACTION_BUTTONS</key>
+    <string>Schnell Aktionsschaltflächen</string>
+    <key>HIDE_BOTH</key>
+    <string>Beide verstecken</string>
+    <key>HIDE_TORCH_BUTTON</key>
+    <string>Taschenlampentaste ausblenden</string>
+    <key>HIDE_CAMERA_BUTTON</key>
+    <string>Kamerataste ausblenden</string>
+    <key>UNLOCK_TEXT</key>
+    <string>"Entsperren" Text</string>
+    <key>HIDE_SWIPE_PRESS</key>
+    <string>Swipe Up / Zum Entsperren drücken ausblenden</string>
+    <key>HIDE_TOP_SWIPE_TEXT</key>
+    <string>Verstecke den oberen 'Swipe'-Text</string>
+    <key>OLDER_NOTIFICATIONS</key>
+    <string>ältere Benachrichtigungen</string>
+    <key>HIDE_NO_OLDER_NOTIFICATIONS</key>
+    <string>Text 'Keine älteren Benachrichtigungen' ausblenden</string>
+    <key>CAMERA</key>
+    <string>Kamera</string>
+    <key>DISABLE_CAMERA_SWIPE</key>
+    <string>Deaktivieren Sie die KameraSwipe(SperrBildschirm)</string>
+    <key>FORCE_ENABLE_CAMERA</key>
+    <string>Kamera aktivieren erzwingen</string>
+    <key>FORCE_CAMERA_STRING</key>
+    <string>Das Aktivieren von "Kamera aktivieren erzwingen" funktioniert nur, wenn das Streichen der Kamera ausgeblendet wird</string>
+    <key>MEDIA_CONTROLS</key>
+    <string>Mediensteuerung</string>
+    <key>HIDE_MEDIA_PLAYER</key>
+    <string>Media Player ausblenden</string>
+    <key>LOCKSCREEN</key>
+    <string>Sperrbildschirm</string>
+</dict>
+</plist>
