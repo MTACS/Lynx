@@ -1,11 +1,11 @@
 <plist version="1.0">
 <dict>
     <key>MAIN_TWEAK_SETTINGS</key>
-    <string>صفحة الإعدادات الرئيسية</string>
+    <string>صفحة الإعدادات الرئيسية:</string>
     <key>ENABLE_TWEAK</key>
     <string>تفعيل الأداة</string>
     <key>SECTIONS</key>
-    <string>الأقسام</string>
+    <string>الأقسام:</string>
     <key>SYSTEM_WIDE</key>
     <string>أعدادات النظام</string>
     <key>LOCKSCREEN</key>
@@ -33,15 +33,15 @@
     <key>PHONE_SECTION</key>
     <string>الهاتف</string>
     <key>OTHER_HEADER</key>
-    <string>أخرى</string>
+    <string>أخرى:</string>
     <key>EXPERIMENTAL_SECTION</key>
     <string>تجريبي</string>
     <key>THIRD_PARTY_SECTION</key>
-    <string>تطبيقات المتجر</string>
+    <string>تطبيقات المتجر:</string>
     <key>CONTACT_DEVELOPER</key>
-    <string>راسل مطور الأداة</string>
+    <string>راسل مطور الأداة:</string>
     <key>SUPPORT_HEADER</key>
-    <string>الدعم</string>
+    <string>الدعم:</string>
     <key>REQUEST_FEATURE</key>
     <string>طلب أضافة</string>
     <key>REPORT_BUG</key>
@@ -49,8 +49,14 @@
     <key>TWEAK_GRAPHICS</key>
     <string>تأثيرات الأداة</string>
     <key>TRANSLATIONS</key>
-    <string>الترجمة</string>
+    <string>مترجمون:</string>
     <key>CONTRIBUTORS</key>
     <string>المساهمون</string>
+    <key>Tweak Settings</key>
+    <string>إعادة ضبط إعدادات الأداة:</string>
+    <key>Reset Settings</key>
+    <string>إعادة ضبط</string>
+    <key>Special Thanks</key>
+    <string>شكر خاص إلى:</string>
 </dict>
 </plist>
