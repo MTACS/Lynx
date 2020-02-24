@@ -132,5 +132,17 @@
     <string>أيقاف تطاير أيقونات عند الفتح</string>
     <key>SYSTEM_WIDE</key>
     <string>النظام</string>
+    <key>Use Modern Style</key>
+    <string>استخدام النمط الحديث</string>
+    <key>Select Apps</key>
+    <string>أختر تطبيقات</string>
+    <key>Title Bars</key>
+    <string>عناوين الصفحات (الكبيرة)</string>
+    <key>Force Small Titles</key>
+    <string>تصغير</string>
+    <key>VOLUME_HUD</key>
+    <string>تحكم الصوت</string>
+    <key>HIDE_VOLUME_HUD</key>
+    <string>أخفاء</string>
 </dict>
 </plist>

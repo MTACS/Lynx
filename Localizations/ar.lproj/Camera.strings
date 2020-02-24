@@ -1,6 +1,6 @@
 <plist version="1.0">
 <dict>
-    <key>STYLE</key>
+    <key>Style</key>
     <string>نمط العرض</string>
     <key>USE_IPAD_STYLE</key>
     <string>إستخدام نمط أيباد</string>

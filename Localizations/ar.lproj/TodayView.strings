@@ -3,7 +3,7 @@
     <key>WIDGETS_VIEW</key>
     <string>صفحة واجهة رسومية</string>
     <key>HIDE_EDIT_BUTTON</key>
-    <string>أخفاء زر تعدبل</string>
+    <string>أخفاء زر تعديل</string>
     <key>HIDE_WEATHER_INFO</key>
     <string>أخفاء معلومات طقس</string>
     <key>DISABLE_ON_LOCKSCREEN</key>
