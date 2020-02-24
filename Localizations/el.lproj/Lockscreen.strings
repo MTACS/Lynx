@@ -92,5 +92,13 @@
     <string>Απόκρυψη του παραθύρου αναπαραγωγής</string>
     <key>LOCKSCREEN</key>
     <string>Οθόνη κλειδώματος</string>
+	<key>USE_HAPTIC_FEEDBACK</key>
+    <string>Χρήση δόνησης</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Λειτουργία 'Μην ενοχλείτε'</string>
+    <key>HIDE_BANNER</key>
+    <string>Απόκρυψη ειδοποίησης</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Μέγεθος ειδοποιήσεων</string>
 </dict>
 </plist>

@@ -14,5 +14,9 @@
     <string>Εμφάνιση της ενότητας Ethernet</string>
     <key>SETTINGS</key>
     <string>Ρυθμίσεις</string>
+	<key>OTHER</key>
+    <string>Άλλα</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>Προσθήκη κουμπιού πληροφοριών</string>
 </dict>
 </plist>

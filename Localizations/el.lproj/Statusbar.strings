@@ -24,5 +24,11 @@
     <string>Η ενεργοποίηση της λειτουργίας 'Απόκρυψη προβολής χρωμάτων' επηρεάζει τις υπηρεσίες τοποθεσίας, το Hotspot και την εγγραφή οθόνης σε iPhone X και νεότερα</string>
     <key>STATUS_BAR</key>
     <string>Μπάρα κατάστασης</string>
+	<key>HIDE_EVERYWHERE</key>
+    <string>Απόκρυψη παντού</string>
+    <key>HIDING</key>
+    <string>Απόκρυψη</string>
+    <key>HIDE_CLOCK</key>
+    <string>Απόκρυψη ρολογιού</string>
 </dict>
 </plist>
