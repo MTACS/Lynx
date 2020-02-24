@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
-    <key>HOMESCREEN_ICONS</key>
+    <key>Homescreen Icons</key>
     <string>أيقونات الشاشة</string>
-    <key>HIDE_ICON_LABELS</key>
+    <key>Hide Icon Labels</key>
     <string>أخفاء أسماء التطبيقات</string>
 </dict>
 </plist>
