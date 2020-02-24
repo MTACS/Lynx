@@ -113,6 +113,7 @@ Status Bar
 * Hide Battery view
 * Hide clock
 * Hide Lock Icon (iPhone 8 and below)
+* Set custom carrier
 
 Today View (Widgets)
 
