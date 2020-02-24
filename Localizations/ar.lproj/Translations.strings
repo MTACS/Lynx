@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>Arabic</key>
+    <string>اللغة العربية</string>
+    <key>French</key>
+    <string>اللغة الفرنسية</string>
+    <key>Greek</key>
+    <string>اللغة اليونانية</string>
+    <key>German</key>
+    <string>اللغة الألمانية</string>
+    <key>Chinese (Simplified)</key>
+    <string>اللغة الصينية</string>
+    <key>Persian</key>
+    <string>اللغة الفارسية</string>
+    <key>Turkish</key>
+    <string>اللغة التركية</string>
+    <key>Spanish</key>
+    <string>اللغة الأسبانية</string>
+    <key>Italian</key>
+    <string>اللغة الإطالية</string>
+    <key>Polish</key>
+    <string>اللغة البولندية</string>
+</dict>
+</plist>
