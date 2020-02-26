@@ -59,6 +59,9 @@ SpringBoard (System Wide)
 * Change FaceID animation duration
 * Use custom icon label colors
 * Force Light or Dark mode for specific apps
+* Use small navigation bar titles
+* Use custom number of homescreen columns
+* Use modern style table views
 
 Lockscreen
 
