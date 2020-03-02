@@ -14,5 +14,9 @@
     <string>Οι διακόπτες συνδεσιμότητας θα προκαλούν όντως απενεργοποίηση των αντίστοιχων λειτουργιών</string>
     <key>CONTROL_CENTER</key>
     <string>Κέντρο ελέγχου</string>
+	<key>USE_DARK_MODULES</key>
+    <string>Χρήση σκούρων διακοπτών</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Στο διακόπτη του φακού δε λειτουργεί η ρύθμιση σκούρου χρώματος</string>
 </dict>
 </plist>

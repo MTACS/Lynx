@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>POPUPS</key>
+    <string>Αναδυόμενα παράθυρα</string>
+    <key>BLOCK_RATE_US</key>
+    <string>Μπλοκάρισμα του αναδυόμενου παραθύρου 'Βαθμολογείστε μας'</string>
+</dict>
+</plist>
