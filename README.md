@@ -162,7 +162,6 @@ YouTube
 
 * Allow playback in background
 * Block Ads
-* Disable stories
 
 SoundCloud
 
