@@ -172,6 +172,10 @@ Instagram
 
 * Reenable number of likes
 
+Reddit
+
+* Hide 'Get Coins' button
+
 Safari
 
 * Use iPad Tab Layout
