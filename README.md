@@ -62,6 +62,7 @@ SpringBoard (System Wide)
 * Use small navigation bar titles
 * Use custom number of homescreen columns
 * Use modern style table views
+* Hide Dock completely
 
 Lockscreen
 
