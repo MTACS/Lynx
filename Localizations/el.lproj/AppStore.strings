@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>UPDATES_TAB</key>
-    <string>Κουμπί ενημερώσεων</string>
-    <key>REPLACE_UPDATES</key>
-    <string>Αντικατάσταση του κομπιού Arcade με το κουμπί ενημερώσεων</string>
-</dict>
-</plist>

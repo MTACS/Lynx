@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>HOMESCREEN_ICONS</key>
-    <string>主屏幕图标</string>
-    <key>HIDE_ICON_LABELS</key>
-    <string>隐藏图标标签</string>
-</dict>
-</plist>
