@@ -1,0 +1,22 @@
+<plist version="1.0">
+<dict>
+    <key>CELLS</key>
+    <string>الأقسام</string>
+    <key>HIDE_THIRD_PARTY_APPS</key>
+    <string>أخفاء تطبيقات المتجر</string>
+    <key>HIDE_CELL_ICONS</key>
+    <string>أخفاء أيقونات الأقسام</string>
+    <key>NETWORK</key>
+    <string>الشبكة</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>IP إظهار عنوان</string>
+    <key>SHOW_ETHERNET_SECTION</key>
+    <string>إظهار قسم أتصال السلكي</string>
+    <key>SETTINGS</key>
+    <string>الإعدادات</string>
+    <key>OTHER</key>
+    <string>أزرار أضافية</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>أضافة زر معلومات</string>
+</dict>
+</plist>

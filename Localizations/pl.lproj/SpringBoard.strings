@@ -1,0 +1,136 @@
+<plist version="1.0">
+<dict>
+    <key>APP_INTERFACE_STYLE</key>
+    <string>Styl interfejsu aplikacji</string>
+    <key>DARK_MODE</key>
+    <string>Ciemny</string>
+    <key>LIGHT_MODE</key>
+    <string>Jasny</string>
+    <key>DOCK</key>
+    <string>Dock</string>
+    <key>HIDE_DOCK_BACKGROUND</key>
+    <string>Ukryj tło</string>
+    <key>USE_CUSTOM_ICON_COUNT</key>
+    <string>Własna liczba ikon</string>
+    <key>HOME_BAR</key>
+    <string>Pasek Home</string>
+    <key>HIDE_BAR_EVERYWHERE</key>
+    <string>Ukryj wszędzie</string>
+    <key>TABLE_VIEWS</key>
+    <string>Widok tabel</string>
+    <key>HIDE_TABLE_VIEW_SEPARATORS</key>
+    <string>Ukryj separatory</string>
+    <key>USE_CUSTOM_COLOR</key>
+    <string>Własny kolor</string>
+    <key>COLORPICKER_TINT_COLOR</key>
+    <string>Odcień</string>
+    <key>SEARCH_BARS</key>
+    <string>Paski wyszukiwania</string>
+    <key>HIDE_SEARCH_BARS</key>
+    <string>Ukryj absolutnie</string>
+    <key>HIDE_SEARCH_BAR_BACKGROUND</key>
+    <string>Ukryj tło</string>
+    <key>SEARCH_BAR_WARNING</key>
+    <string>Ukrycie pasków wyszukiwania może powodować dziwne zachowanie aplikacji - jest to celowe na podstawie tego, w jaki sposób są ukryte</string>
+    <key>SCREENSHOTS</key>
+    <string>Zrzuty ekranu</string>
+    <key>HIDE_FLASH</key>
+    <string>Wyłącz błysk</string>
+    <key>FLASH_TINT_COLOR</key>
+    <string>Kolor błysku</string>
+    <key>SCROLL_INDICATORS</key>
+    <string>Wskaźnik przewijania</string>
+    <key>HIDE_SCROLL_BARS</key>
+    <string>Ukryj paski przewijania</string>
+    <key>NAVIGATION_BARS</key>
+    <string>Paski nawigacyjne</string>
+    <key>HIDE_SHADOW_IMAGE</key>
+    <string>Ukryj cień obrazu</string>
+    <key>FOLDERS</key>
+    <string>Foldery</string>
+    <key>HIDE_FOLDER_TITLES</key>
+    <string>Ukryj tytuły folderów</string>
+    <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
+    <string>Ukryj tło otwartego folderu</string>
+    <key>HIDE_FOLDER_ICON_BACKGROUND</key>
+    <string>Ukryj tło ikon folderów</string>
+    <key>CLOSE_FOLDER_AUTOMATICALLY</key>
+    <string>Zamykaj automatycznie</string>
+    <key>ICONS</key>
+    <string>Ikony</string>
+    <key>HIDE_LABELS</key>
+    <string>Ukryj podpisy</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Ukryj kropki stron</string>
+    <key>HIDE_UPDATE_DOTS</key>
+    <string>Ukryj kropki uaktualnionych apek</string>
+    <key>SHOW_DONE_BUTTON</key>
+    <string>Pokaż przycisk "Zrobione"</string>
+    <key>USE_CUSTOM_LABEL_COLOR</key>
+    <string>Włąsny kolor podpisów</string>
+    <key>SWITCHES</key>
+    <string>Przełączniki</string>
+    <key>USE_CUSTOM_SWITCH_COLOR</key>
+    <string>Własny kolor przełączników</string>
+    <key>BADGES</key>
+    <string>Plakietki</string>
+    <key>HIDE_BADGES</key>
+    <string>Ukryj plakietki</string>
+    <key>USE_AVERAGE_COLOR</key>
+    <string>Kolor pośredni</string>
+    <key>FORCE_TOUCH</key>
+    <string>3D Touch</string>
+    <key>HIDE_SHARE_OPTION</key>
+    <string>Ukryj opcję udostępniania aplikacji</string>
+    <key>HIDE_DELETE_OPTION</key>
+    <string>Ukryj opcję usunięcia aplikacji</string>
+    <key>HIDE_EDIT_OPTION</key>
+    <string>Ukryj opcję edycji</string>
+    <key>REVERSE_ACTION_ORDER</key>
+    <string>Odwrotna kolejność</string>
+    <key>HIDE_ACTION_ICONS</key>
+    <string>Ukryj ikony</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Pokaż adres IP</string>
+    <key>SHOW_BATTERY_LEVEL</key>
+    <string>Pokaż poziom baterii</string>
+    <key>HIDE_SEPARATOR_LINES</key>
+    <string>Ukryj separatory</string>
+    <key>SCREEN_TIME</key>
+    <string>Czas na ekranie</string>
+    <key>DISABLE_ICON_DARKENING</key>
+    <string>Wyłącz przyciemnianie ikon</string>
+    <key>DISABLE_HOURGLASS_ICON</key>
+    <string>Wyłącz ikonę klepsydry</string>
+    <key>BREADCRUMBS</key>
+    <string>Przycisk powrotu do ostatniej apki</string>
+    <key>HIDE_APP_BREADCRUMBS</key>
+    <string>Ukryj powrót do ostatniej apki</string>
+    <key>TAB_BAR_LABELS</key>
+    <string>Podpisy na pasku zakładek</string>
+    <key>HIDE_TAB_BAR_LABELS</key>
+    <string>Ukryj podpisy na pasku zakładek</string>
+    <key>HOMESCREEN_WIDGETS</key>
+    <string>Widgety ekranu początkowego</string>
+    <key>HIDE_ADD_WIDGET_TEXT</key>
+    <string>Ukryj tekst "Dodaj widżet"</string>
+    <key>FACEID_ALERT</key>
+    <string>Pop-up Face ID</string>
+    <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
+    <string>Własna animacja Face ID</string>
+    <key>FACID_DISMISSAL_TIME</key>
+    <string>Czas zniknięcia Face ID</string>
+    <key>FACEID_ANIMATION_LENGTH</key>
+    <string>Długość animacji Face ID</string>
+    <key>LOW_POWER_MODE</key>
+    <string>Tryb oszczędności baterii</string>
+    <key>DISABLE_AUTO_LOCK</key>
+    <string>Wyłącz automatyczną blokadę</string>
+    <key>ANIMATIONS</key>
+    <string>Animacje</string>
+    <key>ICON_FLY_IN</key>
+    <string>Wyłącz przylot ikon</string>
+    <key>SYSTEM_WIDE</key>
+    <string>Ogólnosystemowe</string>
+</dict>
+</plist>

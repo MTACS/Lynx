@@ -1,0 +1,22 @@
+<plist version="1.0">
+<dict>
+    <key>STATUS_BAR</key>
+    <string>Status Bar</string>
+    <key>HIDE_STATUS_BAR</key>
+    <string>Hide Status Bar</string>
+    <key>HIDE_TOGGLE_HINTS</key>
+    <string>Hide Toggle Hints</string>
+    <key>CONNECTIVITY</key>
+    <string>Connectivity</string>
+    <key>HIDE_CONNECTIVITY_SEPARATORS</key>
+    <string>Hide Connectivity Separators</string>
+    <key>DISABLE_TOGGLES</key>
+    <string>Actually Disable Toggles</string>
+    <key>CONTROL_CENTER</key>
+    <string>Control Center</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Use Dark Modules</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Dark Modules doesn't work for the Flashlight module</string>
+</dict>
+</plist>

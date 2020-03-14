@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>نمط العرض</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>عرض شبكي</string>
+    <key>HANDOFF</key>
+    <string>النسخ المتعدد</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>أخفاء التطبيقات المقترحة</string>
+    <key>APP_CARDS</key>
+    <string>بطاقات التطبيقات</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>أخفاء أسماء التطبيقات</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>أخفاء أيقونات التطبيقات</string>
+    <key>NOW_PLAYING</key>
+    <string>الموسيقى</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>منع أغلاق الموسيقى</string>
+    <key>APP_SWITCHER</key>
+    <string>مبدل التطبيقات</string>
+</dict>
+</plist>

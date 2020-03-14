@@ -1,0 +1,10 @@
+<plist version="1.0">
+<dict>
+    <key>TAB_OVERVIEW</key>
+    <string>Podgląd kart</string>
+    <key>USE_TAB_OVERVIEW</key>
+    <string>Podgląd kart</string>
+    <key>DISCLAIMER_PLACEHOLDER</key>
+    <string>Używając tej funkcji animacje mogą być zbugowane na iPhone, z racji że przeznaczona jest tylko dla iPada</string>
+</dict>
+</plist>

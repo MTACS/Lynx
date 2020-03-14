@@ -1,0 +1,24 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Style</string>
+    <key>USE_GRID_SWITCHER</key>
+    <string>Use Grid Switcher</string>
+    <key>HANDOFF</key>
+    <string>Handoff</string>
+    <key>HIDE_APP_SUGGESTIONS</key>
+    <string>Hide App Suggestions</string>
+    <key>APP_CARDS</key>
+    <string>App Cards</string>
+    <key>HIDE_APP_LABELS</key>
+    <string>Hide App Labels</string>
+    <key>HIDE_APP_ICONS</key>
+    <string>Hide App Icons</string>
+    <key>NOW_PLAYING</key>
+    <string>Now Playing</string>
+    <key>PREVENT_APP_KILL</key>
+    <string>Prevent Killing of Playing Apps</string>
+    <key>APP_SWITCHER</key>
+    <string>App Switcher</string>
+</dict>
+</plist>

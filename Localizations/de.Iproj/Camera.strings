@@ -1,0 +1,14 @@
+<plist version="1.0">
+<dict>
+    <key>STYLE</key>
+    <string>Stil</string>
+    <key>USE_IPAD_STYLE</key>
+    <string>Verwenden Sie den iPad-Stil</string>
+    <key>PREVIEW</key>
+    <string>Vorschau</string>
+    <key>HIDE_RECENT_PREVIEW</key>
+    <string>Letzte Bildvorschau ausblenden</string>
+    <key>CAMERA</key>
+    <string>Kamera</string>
+</dict>
+</plist>

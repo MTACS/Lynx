@@ -1,0 +1,136 @@
+<plist version="1.0">
+<dict>
+    <key>APP_INTERFACE_STYLE</key>
+    <string>Στυλ διεπαφής εφαρμογών</string>
+    <key>DARK_MODE</key>
+    <string>Σκοτεινό</string>
+    <key>LIGHT_MODE</key>
+    <string>Φωτεινό</string>
+    <key>DOCK</key>
+    <string>Dock</string>
+    <key>HIDE_DOCK_BACKGROUND</key>
+    <string>Απόκρυψη του υποβάθρου</string>
+    <key>USE_CUSTOM_ICON_COUNT</key>
+    <string>Χρήση προσαρμοσμένου αριθμού εικονιδίων</string>
+    <key>HOME_BAR</key>
+    <string>Home Bar</string>
+    <key>HIDE_BAR_EVERYWHERE</key>
+    <string>Απόκρυψη παντού</string>
+    <key>TABLE_VIEWS</key>
+    <string>Οθόνες πινάκων</string>
+    <key>HIDE_TABLE_VIEW_SEPARATORS</key>
+    <string>Απόκρυψη διαχωριστικών</string>
+    <key>USE_CUSTOM_COLOR</key>
+    <string>Χρήση προσαρμοσμένου χρώματος</string>
+    <key>COLORPICKER_TINT_COLOR</key>
+    <string>Απόχρωση</string>
+    <key>SEARCH_BARS</key>
+    <string>Μπάρες αναζήτησης</string>
+    <key>HIDE_SEARCH_BARS</key>
+    <string>Απόκρυψη εντελώς</string>
+    <key>HIDE_SEARCH_BAR_BACKGROUND</key>
+    <string>Απόκρυψη υποβάθρου</string>
+    <key>SEARCH_BAR_WARNING</key>
+    <string>Η απόκρυψη των μπαρών αναζήτησης μπορεί να κάνει τις εφαρμογές να συμπεριφερθούν περίεργα, αυτό είναι αναμενόμενο βάση του τρόπου που απενεργοποιούνται</string>
+    <key>SCREENSHOTS</key>
+    <string>Στιγμιότυπα οθόνης</string>
+    <key>HIDE_FLASH</key>
+    <string>Απόκρυψη του φλας</string>
+    <key>FLASH_TINT_COLOR</key>
+    <string>Απόχρωση του φλας</string>
+    <key>SCROLL_INDICATORS</key>
+    <string>Δείκτες σκρολαρίσματος</string>
+    <key>HIDE_SCROLL_BARS</key>
+    <string>Απόκρυψη των δεικτών</string>
+    <key>NAVIGATION_BARS</key>
+    <string>Μπάρες πλοήγησης</string>
+    <key>HIDE_SHADOW_IMAGE</key>
+    <string>Απόκρυψη της σκιάς της εικόνας</string>
+    <key>FOLDERS</key>
+    <string>Φάκελοι</string>
+    <key>HIDE_FOLDER_TITLES</key>
+    <string>Απόκρυψη των τίτλων των φακέλων</string>
+    <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
+    <string>Απόκρυψη του υποβάθρου του ανοιχτού φακέλου</string>
+    <key>HIDE_FOLDER_ICON_BACKGROUND</key>
+    <string>Απόκρυψη του υποβάθρου του φακέλου ως εικονίδιο</string>
+    <key>CLOSE_FOLDER_AUTOMATICALLY</key>
+    <string>Αυτόματο κλείσιμο</string>
+    <key>ICONS</key>
+    <string>Εικονίδια</string>
+    <key>HIDE_LABELS</key>
+    <string>Απόκρυψη ονομάτων εφαρμογών</string>
+    <key>HIDE_PAGE_DOTS</key>
+    <string>Απόκρυψη των δεικτών σελίδας</string>
+    <key>HIDE_UPDATE_DOTS</key>
+    <string>Απόκρυψη των δεικτών ενημερωμένων εφαρμογών</string>
+    <key>SHOW_DONE_BUTTON</key>
+    <string>Εμφάνιση του κουμπιού ολοκλήρωσης κατά την επεξεργασία</string>
+    <key>USE_CUSTOM_LABEL_COLOR</key>
+    <string>Χρήση προσαρμοσμένου χρώματος ονόματος εφαρμογών</string>
+    <key>SWITCHES</key>
+    <string>Διακόπτες</string>
+    <key>USE_CUSTOM_SWITCH_COLOR</key>
+    <string>Χρήση προσαρμοσμένου χρώματος διακοπτών</string>
+    <key>BADGES</key>
+    <string>Badges</string>
+    <key>HIDE_BADGES</key>
+    <string>Απόκρυψη Badges</string>
+    <key>USE_AVERAGE_COLOR</key>
+    <string>Χρήση χρώματος με βάση το εικονίδιο</string>
+    <key>FORCE_TOUCH</key>
+    <string>3D Touch</string>
+    <key>HIDE_SHARE_OPTION</key>
+    <string>Απόκρυψη επιλογής κοινής χρήσης εφαρμογής</string>
+    <key>HIDE_DELETE_OPTION</key>
+    <string>Απόκρυψη επιλογής διαγραφής εφαρμογής</string>
+    <key>HIDE_EDIT_OPTION</key>
+    <string>Απόκρυψη επιλογής επεξεργασίας</string>
+    <key>REVERSE_ACTION_ORDER</key>
+    <string>Αντιστροφή της σειράς της λίστας</string>
+    <key>HIDE_ACTION_ICONS</key>
+    <string>Απόκρυψη των εικονιδίων</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Εμφάνιση της διεύθυνσης IP</string>
+    <key>SHOW_BATTERY_LEVEL</key>
+    <string>Εμφάνιση της κατάστασης της μπαταρίας</string>
+    <key>HIDE_SEPARATOR_LINES</key>
+    <string>Απόκρυψη των διαχωριστικών</string>
+    <key>SCREEN_TIME</key>
+    <string>ScreenTime</string>
+    <key>DISABLE_ICON_DARKENING</key>
+    <string>Απενεργοποίηση σκίασης εικονιδίων</string>
+    <key>DISABLE_HOURGLASS_ICON</key>
+    <string>Απενεργοποίηση εικονιδίου κλεψύδρας</string>
+    <key>BREADCRUMBS</key>
+    <string>Δείκτης προηγούμενης εφαρμογής</string>
+    <key>HIDE_APP_BREADCRUMBS</key>
+    <string>Απόκρυψη των δεικτών προηγούμενης εφαρμογής</string>
+    <key>TAB_BAR_LABELS</key>
+    <string>Ονόματα κουμπιών πλοήγησης</string>
+    <key>HIDE_TAB_BAR_LABELS</key>
+    <string>Απόκρυψη ονομάτων κουμπιών πλοήγησης</string>
+    <key>HOMESCREEN_WIDGETS</key>
+    <string>Widgets αρχικής οθόνης</string>
+    <key>HIDE_ADD_WIDGET_TEXT</key>
+    <string>Απόκρυψη κειμένου 'Προσθήκη Widget'</string>
+    <key>FACEID_ALERT</key>
+    <string>Αναδυόμενο παράθυρο FaceID</string>
+    <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
+    <string>Χρήση προσαρμοσμένης διάρκειας animation για το FaceID</string>
+    <key>FACID_DISMISSAL_TIME</key>
+    <string>Χρόνος απόρριψης FaceID</string>
+    <key>FACEID_ANIMATION_LENGTH</key>
+    <string>Διάρκεια FaceID Animation</string>
+    <key>LOW_POWER_MODE</key>
+    <string>Λειτουργία χαμηλής κατανάλωσης</string>
+    <key>DISABLE_AUTO_LOCK</key>
+    <string>Απενεργοποίηση αυτόματου κλειδώματος</string>
+    <key>ANIMATIONS</key>
+    <string>Animations</string>
+    <key>ICON_FLY_IN</key>
+    <string>Απενεργοποίηση του Fly-In των εικονιδίων</string>
+    <key>SYSTEM_WIDE</key>
+    <string>Όλο το σύστημα</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+    <key>NOTIFICATION_ICONS</key>
+    <string>Icones des notifications</string>
+    <key>USE_MODERN_STYLE</key>
+    <string>Utiliser le style moderne</string>
+    <key>AUTO_LAYOUT</key>
+    <string>Forcer la disposition automatique</string>
+    <key>USE_CIRCLE_ICONS</key>
+    <string>Utiliser des icones cirulaire</string>
+    <key>AUTO_LAYOUT_PLACEHOLDER</key>
+    <string>Forcer la disposition automatique peut faire "sauter" les icones lors de l'ouverture des notifications groupé</string>
+    <key>EXPERIMENTAL</key>
+    <string>Experimental</string>
+</dict>
+</plist>

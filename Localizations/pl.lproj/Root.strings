@@ -1,0 +1,56 @@
+<plist version="1.0">
+<dict>
+    <key>MAIN_TWEAK_SETTINGS</key>
+    <string>Główne ustawienia</string>
+    <key>ENABLE_TWEAK</key>
+    <string>Główny włącznik</string>
+    <key>SECTIONS</key>
+    <string>Sekcje</string>
+    <key>SYSTEM_WIDE</key>
+    <string>Ogólnosystemowe</string>
+    <key>LOCKSCREEN</key>
+    <string>Ekran blokady</string>
+    <key>APP_SWITCHER</key>
+    <string>Przełączanie aplikacji</string>
+    <key>STATUS_BAR</key>
+    <string>Pasek stanu</string>
+    <key>CONTROL_CENTER</key>
+    <string>Centrum Sterowania</string>
+    <key>WIDGETS_VIEW</key>
+    <string>Widok Dzisiaj</string>
+    <key>MESSAGES_SECTION</key>
+    <string>Wiadomości</string>
+    <key>SETTINGS_SECTION</key>
+    <string>Ustawienia</string>
+    <key>PHOTOS_SECTION</key>
+    <string>Zdjęcia</string>
+    <key>SAFARI_SECTION</key>
+    <string>Safari</string>
+    <key>APP_STORE_SECTION</key>
+    <string>App Store</string>
+    <key>CAMERA_SECTION</key>
+    <string>Aparat</string>
+    <key>PHONE_SECTION</key>
+    <string>Telefon</string>
+    <key>OTHER_HEADER</key>
+    <string>Inne</string>
+    <key>EXPERIMENTAL_SECTION</key>
+    <string>Eksperymentalne</string>
+    <key>THIRD_PARTY_SECTION</key>
+    <string>Apki innych firm</string>
+    <key>CONTACT_DEVELOPER</key>
+    <string>Kontakty</string>
+    <key>SUPPORT_HEADER</key>
+    <string>Wsparcie</string>
+    <key>REQUEST_FEATURE</key>
+    <string>Poproś o funkcję</string>
+    <key>REPORT_BUG</key>
+    <string>Zgłoś błąd</string>
+    <key>TWEAK_GRAPHICS</key>
+    <string>Grafika</string>
+    <key>TRANSLATIONS</key>
+    <string>Tłumaczenia</string>
+    <key>CONTRIBUTORS</key>
+    <string>Współtwórcy</string>
+</dict>
+</plist>

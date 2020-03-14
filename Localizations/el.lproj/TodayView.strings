@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+    <key>WIDGETS_VIEW</key>
+    <string>Οθόνη των widgets</string>
+    <key>HIDE_EDIT_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού επεξεργασίας</string>
+    <key>HIDE_WEATHER_INFO</key>
+    <string>Απόκρυψη των πληροφοριών καιρού</string>
+    <key>DISABLE_ON_LOCKSCREEN</key>
+    <string>Απενεργοποίηση στην οθόνη κλειδώματος</string>
+    <key>DISABLE_ON_SPRINGBOARD</key>
+    <string>Απενεργοποίηση στην αρχική οθόνη</string>
+    <key>TODAY_VIEW</key>
+    <string>Οθόνη Today</string>
+</dict>
+</plist>

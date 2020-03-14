@@ -1,0 +1,22 @@
+<plist version="1.0">
+<dict>
+    <key>CELLS</key>
+    <string>Cells</string>
+    <key>HIDE_THIRD_PARTY_APPS</key>
+    <string>Hide 3rd Party Apps</string>
+    <key>HIDE_CELL_ICONS</key>
+    <string>Hide Cell Icons</string>
+    <key>NETWORK</key>
+    <string>Network</string>
+    <key>SHOW_IP_ADDRESS</key>
+    <string>Show IP Address</string>
+    <key>SHOW_ETHERNET_SECTION</key>
+    <string>Show Ethernet Section</string>
+    <key>SETTINGS</key>
+    <string>Settings</string>
+    <key>OTHER</key>
+    <string>Other</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>Add Info Button</string>
+</dict>
+</plist>
