@@ -89,6 +89,7 @@ Lockscreen
 * Use custom 'Enter Passcode' text
 * Use passcode button haptic feedback
 * Use custom notifications height
+* Use custom 'Swipe up to unlock' text
 
 AppSwitcher
 
