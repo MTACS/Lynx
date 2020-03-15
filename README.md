@@ -14,6 +14,10 @@ Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphi
 
 Please combine all issues and requests into one, as it gets cluttered with a separate one for each
 
+## Localizations 
+
+Create a pull request of the en.lproj folder inside this repository, with the words inside the ```<string></string>``` translated to your language. Also include your Twitter account if you have one in a comment so I can add you to the translation credits.
+
 ## Current Features
 
 SpringBoard (System Wide)
