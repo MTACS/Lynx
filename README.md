@@ -63,6 +63,7 @@ SpringBoard (System Wide)
 * Use custom number of homescreen columns
 * Use modern style table views
 * Hide Dock completely
+* Disable Spotlight on home screen
 
 Lockscreen
 
@@ -119,6 +120,7 @@ Status Bar
 * Hide clock
 * Hide Lock Icon (iPhone 8 and below)
 * Set custom carrier
+* Show percentage inside battery
 
 Today View (Widgets)
 
@@ -185,6 +187,7 @@ Reddit
 Safari
 
 * Use iPad Tab Layout
+* Enable background playback
 
 CarPlay
 
