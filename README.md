@@ -149,6 +149,7 @@ Settings
 * Show Ethernet section
 * Add device info button
 * Hide chevrons on cells
+* Use custom first and last name in Apple ID section
 
 Camera
 
