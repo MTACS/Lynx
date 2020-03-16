@@ -34,5 +34,9 @@
     <string>Use Custom Carrier</string>
     <key>ENTER_CUSTOM_CARRIER_TEXT</key>
     <string>Enter custom carrier text</string>
+    <key>BATTERY_SECTION</key>
+    <string>Battery</string>
+    <key>SHOW_PERCENTAGE</key>
+    <string>Show Percentage</string>
 </dict>
 </plist>
