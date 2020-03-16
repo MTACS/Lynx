@@ -22,8 +22,9 @@ If applicable, add screenshots to help explain your problem.
 **iDevice Information (please complete the following information):**
  - Device: [iPhone X]
  - OS: [iOS 13.2.2]
- - Package Manager used to install Lynx [Zebra, Cydia, Installer]
+ - Package Manager used to install Lynx: [Zebra, Cydia, Installer]
  - Lynx Version (Can be found at the bottom of Settings pane): [1.0.3]
+ - Jailbreak Used: [Checkra1n, unc0ver]
 
 **Additional context**
 Add any other context about the problem here.
