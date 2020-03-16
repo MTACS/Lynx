@@ -12,5 +12,9 @@
     <string>Forcing 'Auto-Layout' may cause icons to jump when opening notification stacks</string>
     <key>EXPERIMENTAL</key>
     <string>Experimental</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Disable Haptic Touch</string>
 </dict>
 </plist>
