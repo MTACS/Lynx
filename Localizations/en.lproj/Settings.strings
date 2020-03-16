@@ -18,5 +18,7 @@
     <string>Other</string>
     <key>ADD_INFO_BUTTON</key>
     <string>Add Info Button</string>
+    <key>HIDE_CHEVRONS</key>
+    <string>Hide Chevrons</string>
 </dict>
 </plist>
