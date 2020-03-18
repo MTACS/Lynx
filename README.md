@@ -16,7 +16,7 @@ Please combine all issues and requests into one, as it gets cluttered with a sep
 
 ## Localizations 
 
-Create a pull request of the en.lproj folder inside this repository, with the words inside the ```<string></string>``` translated to your language. Also include your Twitter account if you have one in a comment so I can add you to the translation credits.
+All info on adding your language or updating existing translations check [here](https://github.com/MTACS/LynxLocalizations)
 
 ## Current Features
 
