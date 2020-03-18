@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>HOMESCREEN_ICONS</key>
-    <string>Íconos de la Pantalla de Inicio</string>
-    <key>HIDE_ICON_LABELS</key>
-    <string>Ocultar Etiquetas de Íconos</string>
-</dict>
-</plist>

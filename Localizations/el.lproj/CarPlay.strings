@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>HOMESCREEN_ICONS</key>
-    <string>Εικονίδια αρχικής οθόνης</string>
-    <key>HIDE_ICON_LABELS</key>
-    <string>Απόκρυψη των ονομάτων των εικονιδίων</string>
-</dict>
-</plist>

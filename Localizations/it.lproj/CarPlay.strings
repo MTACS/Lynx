@@ -1,8 +1,0 @@
-<plist version="1.0">
-<dict>
-    <key>HOMESCREEN_ICONS</key>
-    <string>Icone Homescreen</string>
-    <key>HIDE_ICON_LABELS</key>
-    <string>Nascondi etichette app</string>
-</dict>
-</plist>
