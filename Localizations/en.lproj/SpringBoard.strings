@@ -144,5 +144,9 @@
     <string>Hide Beta Feedback</string>
     <key>VOLUME_HUD</key>
     <string>Volume HUD</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Disable On Homescreen</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Hide Beta Dots</string>
 </dict>
 </plist>
