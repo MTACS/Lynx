@@ -63,7 +63,9 @@ SpringBoard (System Wide)
 * Use custom number of homescreen columns
 * Use modern style table views
 * Hide Dock completely
-* Disable Spotlight on home screen
+* Clear badges via 3D Touch menu
+* Use custom screen corner radius
+* 
 
 Lockscreen
 
@@ -94,7 +96,9 @@ Lockscreen
 * Use custom 'Enter Passcode' text
 * Use passcode button haptic feedback
 * Use custom notifications height
-* Use custom 'Swipe up to unlock' text
+* Use custom 'Swipe up to unlock' or 'Press home to unlock' text
+* Hide 'Manager' and 'View' buttons on notifications
+* Hide notification swipe section separators
 
 AppSwitcher
 
@@ -127,6 +131,7 @@ Today View (Widgets)
 * Disable on lockscreen
 * Hide Widgets View edit button
 * Hide 'The Weather Channel' text
+* Hide '1 Widget Available' text
 
 App Store
 
