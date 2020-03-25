@@ -65,7 +65,8 @@ SpringBoard (System Wide)
 * Hide Dock completely
 * Clear badges via 3D Touch menu
 * Use custom screen corner radius
-* 
+* Disable screenshot sound
+* Disable spotlight
 
 Lockscreen
 
@@ -162,6 +163,7 @@ Camera
 
 * Use iPad style layout
 * Hide last photo preview
+* Disable shutter sound
 
 Phone
 
