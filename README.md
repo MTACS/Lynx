@@ -66,7 +66,7 @@ SpringBoard (System Wide)
 * Clear badges via 3D Touch menu
 * Use custom screen corner radius
 * Disable screenshot sound
-* Disable spotlight
+* Hide expanded 3D Touch widgets
 
 Lockscreen
 
@@ -100,6 +100,7 @@ Lockscreen
 * Use custom 'Swipe up to unlock' or 'Press home to unlock' text
 * Hide 'Manager' and 'View' buttons on notifications
 * Hide notification swipe section separators
+* Hide X button
 
 AppSwitcher
 
@@ -108,6 +109,7 @@ AppSwitcher
 * Hide card icons
 * Hide card app labels
 * Prevent killing from App Switcher if audio is playing
+* Kill all apps
 
 Control Center
 
@@ -122,8 +124,15 @@ Status Bar
 * Hide Wifi signal
 * Hide Cell signal
 * Hide Battery view
-* Hide clock
+* Hide Clock
 * Hide Lock Icon (iPhone 8 and below)
+* Hide location arrow in Status Bar
+* Hide rotation lock in Status Bar
+* Hide Do Not Disturb moon in Status Bar
+* Hide Alarm icon in Status Bar
+* Hide Airplane icon in Status Bar
+* Hide VPN Icon in Status Bar
+* Hide expanded widgets on 3D Touch platters
 * Set custom carrier
 * Show percentage inside battery
 
@@ -158,6 +167,7 @@ Settings
 * Add device info button
 * Hide chevrons on cells
 * Use custom first and last name in Apple ID section
+* Hide software update badge
 
 Camera
 
@@ -203,6 +213,8 @@ CarPlay
 Experimental features
 
 * Use modern notifications, with circle icons and icon shadow
+* Show photos debug UI
+* Disable spotlight
 
 # Requesting features
 
