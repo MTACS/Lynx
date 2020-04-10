@@ -135,6 +135,9 @@ Status Bar
 * Hide expanded widgets on 3D Touch platters
 * Set custom carrier
 * Show percentage inside battery
+* Use iPhone X style
+* Use iPad style
+* Set carrier name to WiFi address
 
 Today View (Widgets)
 
@@ -214,7 +217,6 @@ Experimental features
 
 * Use modern notifications, with circle icons and icon shadow
 * Show photos debug UI
-* Disable spotlight
 
 # Requesting features
 
