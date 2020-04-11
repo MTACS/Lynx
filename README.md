@@ -138,6 +138,7 @@ Status Bar
 * Use iPhone X style
 * Use iPad style
 * Set carrier name to WiFi address
+* Hide on Lockscreen and Homescreen
 
 Today View (Widgets)
 
