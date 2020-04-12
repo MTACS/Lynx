@@ -137,6 +137,7 @@ Status Bar
 * Show percentage inside battery
 * Use iPhone X style
 * Use iPad style
+* Hide iPad date view
 * Set carrier name to WiFi address
 * Hide on Lockscreen and Homescreen
 
