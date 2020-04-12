@@ -210,6 +210,7 @@ Safari
 
 * Use iPad Tab Layout
 * Enable background playback
+* Hide url bar background
 
 CarPlay
 
