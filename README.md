@@ -67,6 +67,7 @@ SpringBoard (System Wide)
 * Use custom screen corner radius
 * Disable screenshot sound
 * Hide expanded 3D Touch widgets
+* Enable Drag and Drop on iPhones
 
 Lockscreen
 
