@@ -68,6 +68,7 @@ SpringBoard (System Wide)
 * Disable screenshot sound
 * Hide expanded 3D Touch widgets
 * Enable Drag and Drop on iPhones
+* Disable wallpaper darkening
 
 Lockscreen
 
@@ -102,6 +103,7 @@ Lockscreen
 * Hide 'Manager' and 'View' buttons on notifications
 * Hide notification swipe section separators
 * Hide X button
+* Disable wake animation
 
 AppSwitcher
 
