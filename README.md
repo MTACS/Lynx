@@ -4,7 +4,7 @@
 
 Lynx combines many of my smaller tweaks into one large one capable of customizing iOS 13 in many ways. This was made with a dynamic design, and updates will be provided that include all reasonable feature requests.
 
-Requires Alderis Color Picker and Cephei (1.14) from [Chariz](https://repo.chariz.io/), and AppList from [Ryan Petrich's Repo](http://rpetri.ch/repo)
+Requires Cephei (1.14) from [Chariz](https://repo.chariz.io/), [libsparkcolourpicker](https://sparkdev.me/repo) and [libSparkAppList](https://sparkdev.me/repo)
 
 Available on [Twickd](https://repo.twickd.com/)
 
