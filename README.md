@@ -69,6 +69,7 @@ SpringBoard (System Wide)
 * Hide expanded 3D Touch widgets
 * Enable Drag and Drop on iPhones
 * Disable wallpaper darkening
+* Set custom app tint color
 
 Lockscreen
 
@@ -104,6 +105,9 @@ Lockscreen
 * Hide notification swipe section separators
 * Hide X button
 * Disable wake animation
+* Disable Raise to Wake when flashlight is enabled
+* Automatically rescan Face ID upon failure
+
 
 AppSwitcher
 
@@ -120,7 +124,7 @@ Control Center
 * Hide message when toggling
 * Hide module separators
 * Actually disable/enable toggles
-* Use dark modules
+* Use rounded modules
 
 Status Bar
 
