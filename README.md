@@ -147,6 +147,7 @@ Status Bar
 * Hide iPad date view
 * Set carrier name to WiFi address
 * Hide on Lockscreen and Homescreen
+* Replace 'No SIM' text
 
 Today View (Widgets)
 
