@@ -70,6 +70,7 @@ SpringBoard (System Wide)
 * Enable Drag and Drop on iPhones
 * Disable wallpaper darkening
 * Set custom app tint color
+* Double tap to lock
 
 Lockscreen
 
@@ -229,6 +230,9 @@ Experimental features
 
 * Use modern notifications, with circle icons and icon shadow
 * Show photos debug UI
+* Round screen corners
+* Custom icon corner radius
+* Badge border outline with custom color and weight
 
 # Requesting features
 
