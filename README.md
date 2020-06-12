@@ -14,10 +14,6 @@ Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphi
 
 Please combine all issues and requests into one, as it gets cluttered with a separate one for each
 
-## Localizations 
-
-All info on adding your language or updating existing translations check [here](https://github.com/MTACS/LynxLocalizations)
-
 ## Current Features
 
 SpringBoard (System Wide)
@@ -108,7 +104,9 @@ Lockscreen
 * Disable wake animation
 * Disable Raise to Wake when flashlight is enabled
 * Automatically rescan Face ID upon failure
-
+* Skip passcode screen after respring
+* Use custom date format for clock subtitle
+* Hide Quick Action button background
 
 AppSwitcher
 
@@ -126,6 +124,7 @@ Control Center
 * Hide module separators
 * Actually disable/enable toggles
 * Use rounded modules
+* Use dark modules
 
 Status Bar
 
@@ -133,7 +132,7 @@ Status Bar
 * Hide Cell signal
 * Hide Battery view
 * Hide Clock
-* Hide Lock Icon (iPhone 8 and below)
+* Hide Lock Icon (non-notched devices)
 * Hide location arrow in Status Bar
 * Hide rotation lock in Status Bar
 * Hide Do Not Disturb moon in Status Bar
@@ -149,6 +148,7 @@ Status Bar
 * Set carrier name to WiFi address
 * Hide on Lockscreen and Homescreen
 * Replace 'No SIM' text
+* Set custom date as carrier text
 
 Today View (Widgets)
 
@@ -214,6 +214,10 @@ Instagram
 Reddit
 
 * Hide 'Get Coins' button
+
+Twitter
+
+* Hide promoted tweets
 
 Safari
 
