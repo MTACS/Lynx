@@ -156,6 +156,7 @@ Today View (Widgets)
 * Hide Widgets View edit button
 * Hide 'The Weather Channel' text
 * Hide '1 Widget Available' text
+* Disable search gesture
 
 App Store
 
