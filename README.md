@@ -104,7 +104,6 @@ Lockscreen
 * Disable wake animation
 * Disable Raise to Wake when flashlight is enabled
 * Automatically rescan Face ID upon failure
-* Skip passcode screen after respring
 * Use custom date format for clock subtitle
 * Hide Quick Action button background
 
