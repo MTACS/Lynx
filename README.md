@@ -1,4 +1,4 @@
-# Lynx - A Dynamic Customization Tweak for iOS 13
+# Lynx - A Dynamic Customization Tweak for iOS
 
 ![Lynx](http://mtac.app/assets/images/lynxbanner.png)
 
