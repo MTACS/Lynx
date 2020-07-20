@@ -67,6 +67,7 @@ SpringBoard (System Wide)
 * Disable wallpaper darkening
 * Set custom app tint color
 * Double tap to lock
+* Use dynamic shadows on notification banners
 
 Lockscreen
 
@@ -106,6 +107,7 @@ Lockscreen
 * Automatically rescan Face ID upon failure
 * Use custom date format for clock subtitle
 * Hide Quick Action button background
+* Use dynamic shadows on notifications
 
 AppSwitcher
 
