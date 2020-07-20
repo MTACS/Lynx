@@ -173,6 +173,7 @@ Photos
 
 * Skip deletion confirmation
 * Use infinite zoom
+* Show image metadata
 
 Settings
 
