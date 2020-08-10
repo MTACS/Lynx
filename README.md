@@ -2,6 +2,16 @@
 
 ![Lynx](http://mtac.app/assets/images/lynxbanner.png)
 
+<p align="center">
+  <a href="https://github.com/MTACS/Lynx/issues" align="center"><img src="https://img.shields.io/github/issues/Lynx/Lynx"></a>
+  <a href="https://github.com/MTACS/Lynx/network" align="center"><img src="https://img.shields.io/github/forks/Lynx/Lynx"></a>
+  <a href="https://github.com/MTACS/Lynx/stargazers" align="center"><img src="https://img.shields.io/github/stars/Lynx/Lynx"></a>
+  <a href="" align="center"><img src="https://img.shields.io/badge/Version-1.0.3-informational"></a>
+  <br>
+  <a href="https://twitter.com/mtac8" align="center"><img src="https://img.shields.io/twitter/follow/mtac8?style=social"></a>
+
+</p>
+
 Lynx combines many of my smaller tweaks into one large one capable of customizing iOS 13 in many ways. This was made with a dynamic design, and updates will be provided that include all reasonable feature requests.
 
 Requires Cephei (1.14) from [Chariz](https://repo.chariz.io/), and [libsparkcolourpicker](https://sparkdev.me/repo) and [libSparkAppList](https://sparkdev.me/repo)
