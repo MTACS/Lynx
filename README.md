@@ -1,11 +1,7 @@
 # Lynx - A Dynamic Customization Tweak for iOS
 
 <p align="center">
-  <a href="https://github.com/MTACS/Lynx/issues" align="center"><img src="https://img.shields.io/github/issues/Lynx/Lynx"></a>
-  <a href="https://github.com/MTACS/Lynx/network" align="center"><img src="https://img.shields.io/github/forks/Lynx/Lynx"></a>
-  <a href="https://github.com/MTACS/Lynx/stargazers" align="center"><img src="https://img.shields.io/github/stars/Lynx/Lynx"></a>
-  <a href="" align="center"><img src="https://img.shields.io/badge/Version-1.0.3-informational"></a>
-  <br>
+  
   <a href="https://twitter.com/mtac8" align="center"><img src="https://img.shields.io/twitter/follow/mtac8?style=social"></a>
 
 </p>
