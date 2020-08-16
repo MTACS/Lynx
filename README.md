@@ -123,6 +123,7 @@ AppSwitcher
 * Hide card app labels
 * Prevent killing from App Switcher if audio is playing
 * Kill all apps
+* Use custom card scale
 
 Control Center
 
@@ -146,14 +147,13 @@ Status Bar
 * Hide Alarm icon in Status Bar
 * Hide Airplane icon in Status Bar
 * Hide VPN Icon in Status Bar
-* Hide expanded widgets on 3D Touch platters
+* Hide iPad date view
 * Set custom carrier
 * Show percentage inside battery
 * Use iPhone X style
 * Use iPad style
-* Hide iPad date view
 * Set carrier name to WiFi address
-* Hide on Lockscreen and Homescreen
+* Hide on Lockscreen, Homescreen, and in apps
 * Replace 'No SIM' text
 * Set custom date as carrier text
 
