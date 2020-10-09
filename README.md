@@ -1,4 +1,4 @@
-# Lynx - A Dynamic Customization Tweak for iOS
+# Lynx - A Dynamic Customization Tweak for iOS 12/13
 
 <p align="center">
   
@@ -74,6 +74,7 @@ SpringBoard (System Wide)
 * Set custom app tint color
 * Double tap to lock
 * Use dynamic shadows on notification banners
+* Set custom size for homebar
 
 Lockscreen
 
@@ -133,6 +134,7 @@ Control Center
 * Actually disable/enable toggles
 * Use rounded modules
 * Use dark modules
+* Show slider percentages
 
 Status Bar
 
@@ -162,7 +164,7 @@ Today View (Widgets)
 * Disable on lockscreen
 * Hide Widgets View edit button
 * Hide 'The Weather Channel' text
-* Hide '1 Widget Available' text
+* Hide 'Widget Available' text
 * Disable search gesture
 
 App Store
@@ -191,6 +193,7 @@ Settings
 * Hide chevrons on cells
 * Use custom first and last name in Apple ID section
 * Hide software update badge
+* Hide COVID-19 Exposure section
 
 Camera
 
@@ -227,6 +230,8 @@ Reddit
 Twitter
 
 * Hide promoted tweets
+* Confirm like
+* Confirm retweet
 
 Safari
 
@@ -235,10 +240,6 @@ Safari
 * Hide url bar background
 * Hide Private Mode banner
 
-CarPlay
-
-* Disable icon labels
-
 Experimental features
 
 * Use modern notifications, with circle icons and icon shadow
@@ -246,6 +247,7 @@ Experimental features
 * Round screen corners
 * Custom icon corner radius
 * Badge border outline with custom color and weight
+* Sort homescreen apps alphabetically
 
 # Requesting features
 
