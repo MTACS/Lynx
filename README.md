@@ -12,7 +12,7 @@ Lynx combines many of my smaller tweaks into one large one capable of customizin
 
 Requires Cephei from [Chariz](https://repo.chariz.io/), and [libsparkcolourpicker](https://sparkdev.me/repo) and [libSparkAppList](https://sparkdev.me/repo)
 
-Available on [Twickd](https://repo.twickd.com/)
+Available on [Packix](https://repo.packix.com/)
 
 Thanks to [Ethan Whited](https://twitter.com/EthanWhited) for his amazing graphics and testing
 
